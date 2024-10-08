@@ -21,3 +21,4 @@
 - HW not applicable.
 - require May 2025 to Aug 2026 available.
 - requirements: math and statistics, CNN RNN transformer, Python / C++, practical project.
+- spring semester in 2025: must complete the rest of the regular courses!
