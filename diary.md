@@ -16,4 +16,4 @@
 20241008:
 1. before 10:40: phone call to ask why SIN number letter not received. Because choosing wrong option when applying for SIN number. The letter will be received within 10 days.
 2. submitted documents necessary for RA salary
-3. algorithm assignment 3, finished 1,2,3 and 6.
+3. algorithm assignment 3, finished 1,2,3,4 and 6.
