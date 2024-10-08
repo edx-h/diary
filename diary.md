@@ -12,3 +12,7 @@
 
 20241007:
 1. 算法：学习网络流
+
+20241008:
+1. before 10:40: phone call to ask why SIN number letter not received. Because choosing wrong option when applying for SIN number. The letter will be received within 10 days.
+2. submitted documents necessary for RA salary
