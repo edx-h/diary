@@ -17,3 +17,7 @@
 1. before 10:40: phone call to ask why SIN number letter not received. Because choosing wrong option when applying for SIN number. The letter will be received within 10 days.
 2. submitted documents necessary for RA salary
 3. algorithm assignment 3, finished 1,2,3,4 and 6.
+4. qualcomm internship. check out open internships in Canada. https://careers.qualcomm.com/careers?location=Canada&seniority=Intern&domain=qualcomm.com&sort_by=relevance&pid=446702039826
+- HW not applicable.
+- require May 2025 to Aug 2026 available.
+- requirements: math and statistics, CNN RNN transformer, Python / C++, practical project.
