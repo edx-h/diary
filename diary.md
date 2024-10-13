@@ -46,4 +46,11 @@ The main argument:
 BI scenario, need to return result quickly. In chatting secario, users could tolerate more latency but in other scenarios like using BI tools, users may generate more dynamic changes and cannot put up with so much latency.
 What we may need to do: pre-computation, predictions.
 
+20241012:
+1. RL AS2赶作业
+
+20241013:
+1. 安装docker
+2. 
+
 
