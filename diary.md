@@ -49,8 +49,12 @@ What we may need to do: pre-computation, predictions.
 20241012:
 1. RL AS2赶作业
 
-20241013:
+20241013-20241015:
 1. 安装docker
-2. 
+2. RL作业第二题一直不知道哪里出错了，模型就一直没有学习。需要office hour问助教。
+
+20241015:
+
+   
 
 
