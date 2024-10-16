@@ -54,7 +54,10 @@ What we may need to do: pre-computation, predictions.
 2. RL作业第二题一直不知道哪里出错了，模型就一直没有学习。需要office hour问助教。
 
 20241015:
+1. 安装postgre 12.5并初步测试sqlite导入postgre。
+2. 整理online关于benchmark testing的资料。总体来说决定采用原生的pgbench来执行测试。
 
-   
+20241016:
+1. sqlite导入postgres：
 
 
