@@ -58,6 +58,13 @@ What we may need to do: pre-computation, predictions.
 2. 整理online关于benchmark testing的资料。总体来说决定采用原生的pgbench来执行测试。
 
 20241016:
-1. sqlite导入postgres：
+1. sqlite导入postgres：走通了流程。但是有报错。需要整体跑一遍，统计多少成功了，多少失败了。然后分析失败日志，做相应修改。此外，对已成功的数据库进行初步统计分析
 
+20241017：
+1. 【待完成】：中文论文下载工具整理：
+https://blog.csdn.net/2301_77413856/article/details/134202534
+国家工程数字技术图书馆
+各地方图书馆：https://post.smzdm.com/p/apvo2k49/
+2. sqlite转postgres：
+3. 存是写他们科研的本子。考虑有没有什么要买的，看怎么张口。
 
