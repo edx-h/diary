@@ -67,4 +67,10 @@ https://blog.csdn.net/2301_77413856/article/details/134202534
 各地方图书馆：https://post.smzdm.com/p/apvo2k49/
 2. sqlite转postgres：
 3. 存是写他们科研的本子。考虑有没有什么要买的，看怎么张口。
+4. 写RL project proposal. 
+
+20241018：
+1. 写RL project proposal
+2. 收到新主机
+3. RL作业管欣怡要了代码。发现是没有加一个上下文管理器。
 
