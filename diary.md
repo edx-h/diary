@@ -77,5 +77,10 @@ https://blog.csdn.net/2301_77413856/article/details/134202534
 20241019:
 1. 资源：OEIS latex notation。包含各类数学符号的latex语法。
 2. 写算法作业。
-3. 新PC linux环境
+
+20241020:
+1. 写并提交算法作业
+2. 完善并提交RL proposal
+3. RL AS2放到了天文台组的集群。模型改成了1024。待观察效果。
+4. pgloader。
 
