@@ -74,3 +74,8 @@ https://blog.csdn.net/2301_77413856/article/details/134202534
 2. 收到新主机
 3. RL作业管欣怡要了代码。发现是没有加一个上下文管理器。
 
+20241019:
+1. 资源：OEIS latex notation。包含各类数学符号的latex语法。
+2. 写算法作业。
+3. 新PC linux环境
+
