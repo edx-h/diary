@@ -82,5 +82,33 @@ https://blog.csdn.net/2301_77413856/article/details/134202534
 1. 写并提交算法作业
 2. 完善并提交RL proposal
 3. RL AS2放到了天文台组的集群。模型改成了1024。待观察效果。
-4. pgloader。
+
+20241021:
+1. pgloader导数据，python脚本顺序执行SQL查询。总体看来延迟非常小。数据size也非常小。
+2. 开会笔记：sql->
+pair to generate dialogue.
+pipeline
+
+human generated dialogue
+compare any difference
+
+enlarge data size can have same values.
+
+whether materialisation will work.
+
+literature:
+existing works
+starightforward way to reuse.
+
+if no improvements, then just show discovery.
+
+implementations:
+LLM需要知道并重写
+feedback LLM需要能够感知，并且rewrite。
+
+3. 申请jetbrains的license
+4. 回复奖学金签名
+5. 做rl presentation的beamer。
+
+
 
