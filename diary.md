@@ -111,8 +111,9 @@ feedback LLM需要能够感知，并且rewrite。
 5. 做rl presentation的beamer。
 
 20241022:
-1. 别忘了pre computation。
-2. 
+1. 每日科研：别忘了pre computation。
+2. 每日学习：熵、散度解决的问题
+3. 
 
 
 
