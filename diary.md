@@ -110,5 +110,9 @@ feedback LLM需要能够感知，并且rewrite。
 4. 回复奖学金签名
 5. 做rl presentation的beamer。
 
+20241022:
+1. 别忘了pre computation。
+2. 
+
 
 
