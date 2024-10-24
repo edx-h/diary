@@ -113,7 +113,10 @@ feedback LLM需要能够感知，并且rewrite。
 20241022:
 1. 每日科研：别忘了pre computation。
 2. 每日学习：熵、散度解决的问题
-3. 
+3. RL paper presentation：读paper，模型基本搞懂，尤其是reward function的设计。ppt模型部分的框架已经基本搭建出来。
+   
+20241023：
+1. RL AS3作业：代码编写完毕，又是在查为什么没有learning的问题。
 
 
 
