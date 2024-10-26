@@ -125,5 +125,5 @@ feedback LLM需要能够感知，并且rewrite。
 算法作业
 
 20241026：
-
+1. IDEBench paper中，normalized的含义并不是正规化，而是标准化。建立事实表，维度表这样的标准模型！
 
