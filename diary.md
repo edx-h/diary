@@ -139,3 +139,9 @@ feedback LLM需要能够感知，并且rewrite。
 
 20241030：
 准备RL paper presentation
+
+20241031:
+基本啥事都没干。给zhengjie过生日
+
+20241101:
+rl present。基本啥事都没干
