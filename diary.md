@@ -148,3 +148,10 @@ rl present。基本啥事都没干
 
 20241102:
 观察rl 第三次作业训练情况。能确定代码没有问题，训练正常了。
+pytorch过了前三章
+【计划】video database的paper
+
+20241103【计划】：
+部署rust book
+写video database综述
+做科研！
