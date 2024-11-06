@@ -158,3 +158,10 @@ pytorch 图像chapter 4
 20241104：
 部署rust book
 完结pytorch图像chapter 4
+
+20241105:
+pytorch图像chapter 5一半
+扩增数据offset方法基本完成
+
+20241106:
+给出materialized view处理后的基本结果（至少给出pets_1数据库的结果）
