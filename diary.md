@@ -164,4 +164,9 @@ pytorch图像chapter 5一半
 扩增数据offset方法基本完成
 
 20241106:
-给出materialized view处理后的基本结果（至少给出pets_1数据库的结果）
+给出了pets_1，materialized view处理后的基本结果
+pytorch RNN开头
+
+20241107：
+复习算法
+给出voter_2的结果。关注点：维度表primary key的来源
