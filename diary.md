@@ -174,5 +174,15 @@ pytorch RNN开头
 20241108&09&10:
 算法作业
 
-20241109：
-给出voter_2的结果。关注点：维度表primary key的来源
+20241111：
+research: 给出voter_2的结果。update通知教授
+
+20241112:
+捣鼓了一天的pycharm。测通了github上一个开源的RL project源码库。
+
+20241113:
+找到了有用的资料。新想法：multi-agent+query rewrite w/ 物化视图
+
+20241114:
+pytorch convolution部分 完结
+sfu desktop远程配置rust go
