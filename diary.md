@@ -185,4 +185,10 @@ research: 给出voter_2的结果。update通知教授
 
 20241114:
 pytorch convolution部分 完结
-sfu desktop远程配置rust go
+sfu的远程desktop配置rust go
+开组会
+metagpt+llama部署
+
+20241115:
+反馈dialogue, turn的统计问题
+开会multi-agent
