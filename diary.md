@@ -190,5 +190,10 @@ sfu的远程desktop配置rust go
 metagpt+llama部署
 
 20241115:
-反馈dialogue, turn的统计问题
-开会multi-agent
+反馈dialogue, turn的统计问题：证实自己统计的没有错误。原因已经写在notes上
+
+20241116：
+metagpt搭建
+
+20241117：
+rl project
