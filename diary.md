@@ -191,6 +191,8 @@ metagpt+llama部署
 
 20241115:
 反馈dialogue, turn的统计问题：证实自己统计的没有错误。原因已经写在notes上
+统计了一些杂项指标：例如turn>=4的dialogue的个数，按照db_name汇总。结果比较客观。
+进一步明确研究思路。
 
 20241116：
 metagpt搭建
