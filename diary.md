@@ -195,7 +195,7 @@ metagpt+llama部署
 进一步明确研究思路。
 
 20241116：
-metagpt搭建
+又是没有效率的一天。不过把deepseek的key刷了一遍。
 
 20241117：
 rl project
