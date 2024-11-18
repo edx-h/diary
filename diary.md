@@ -198,4 +198,6 @@ metagpt+llama部署
 又是没有效率的一天。不过把deepseek的key刷了一遍。
 
 20241117：
+有是他妈屁事没敢的一天。ray框架初步学习
+
 rl project
