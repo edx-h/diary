@@ -204,8 +204,15 @@ metagpt+llama部署
 大概摸清项目结构
 
 20241119：
+实际SQL根本执行不了。
+已经跑好了箱形图。
+目前准备把前后SQL的PG cost跑一遍
+
 跑cost model，应用前和应用后。
 看能不能跑join后的实际结果
 明天必须完成！！！！！！
+
+
+
 
 rl project
