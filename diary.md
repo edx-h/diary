@@ -235,14 +235,15 @@ project算是潦潦草草地做完了吧
 RL ppt
 
 20241127：
-pre
+RL pre
 算法作业
 
-跑cost model，应用前和应用后。
-看能不能跑join后的实际结果
-明天必须完成！！！！！！
+20241128:
+提交算法作业
+RL project report，考虑能否ai代笔。
+初步学习hydra，回顾prompt engineering。从李瑀旸的分享中得知了internet of agents。这个可以自己组队什么的。考虑尝试。
+关于研究：测试让agent自动生成prompt。
+发现了一本不错的书，概率图。有向图模型（贝叶斯网），无向图模型（马尔科夫网）
 
-
-
-
-rl project
+20241129：
+实践：代笔。应用mlflow和hydra。
