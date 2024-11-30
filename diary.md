@@ -246,4 +246,7 @@ RL project report，考虑能否ai代笔。
 发现了一本不错的书，概率图。有向图模型（贝叶斯网），无向图模型（马尔科夫网）
 
 20241129：
-实践：代笔。应用mlflow和hydra。
+初步应用autogen和prompt。RL project
+
+20241130:
+RL project必须完结。
