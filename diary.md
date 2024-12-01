@@ -249,4 +249,8 @@ RL project report，考虑能否ai代笔。
 初步应用autogen和prompt。RL project
 
 20241130:
-RL project必须完结。
+RL project report
+谷歌开发者burnaby会议
+
+
+必须完结。
