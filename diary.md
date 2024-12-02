@@ -252,5 +252,11 @@ RL project report，考虑能否ai代笔。
 RL project report
 谷歌开发者burnaby会议
 
+20241201:
+找到了免费电子书阅读资源：https://online.anyflip.com/tsehh/icxx/mobile/index.html和https://zh.z-lib.gs/
+RL project终于做完了。
+
+20241202：
+别忘记发邮件！
 
 必须完结。
