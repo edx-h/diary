@@ -257,6 +257,8 @@ RL project report
 RL project终于做完了。
 
 20241202：
+数据合成I
+
 别忘记发关于connect google的邮件！
 和差旅报销！
 
