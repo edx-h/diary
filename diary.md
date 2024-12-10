@@ -268,6 +268,15 @@ RL project终于做完了。
 241205-07：
 更新内容放到personal_notes了
 
+241208：
+学习calcite
+
+241209：
+开会
+
+241210：
+数据合成SDV
+
 别忘记发关于connect google的邮件！
 和差旅报销！
 
