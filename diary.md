@@ -302,6 +302,12 @@ RL project终于做完了。
 20241220:
 学习calcite，算是有了一些些心得。准备开始实践。
 
+20241221:
+在chatgpt和单测的帮助下，算是从0-1突破了calcite的schema，并且打印每张表，每行的记录。
+
+20241222:
+计划完成以下任务：sql query转relnode。materialize。
+
 别忘记发关于connect google的邮件！
 和差旅报销！
 
