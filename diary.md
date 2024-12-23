@@ -307,7 +307,7 @@ RL project终于做完了。
 
 20241222:
 掌握通过calciteConnection查询jdbc数据。
-
+掌握通过planner把sql转换成relnode。
 
 计划完成以下任务：sql query转relnode。materialize。
 
