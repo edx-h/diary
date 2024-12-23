@@ -306,6 +306,9 @@ RL project终于做完了。
 在chatgpt和单测的帮助下，算是从0-1突破了calcite的schema，并且打印每张表，每行的记录。
 
 20241222:
+掌握通过calciteConnection查询jdbc数据。
+
+
 计划完成以下任务：sql query转relnode。materialize。
 
 别忘记发关于connect google的邮件！
