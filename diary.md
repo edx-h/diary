@@ -310,6 +310,9 @@ RL project终于做完了。
 掌握通过planner把sql转换成relnode。
 判断是否可以物化的框架搭起来了，但是估计还需要调整细节。目前没有办法正确返回结果。
 
+20241223:
+擦屁股。36机器的磁盘满了。先把自己的东西腾出去。pg_dump -h localhost -p 5432 -U pod -n public -F c -b -f /tmp/department_store_syn.dump assets_maintenance_syn
+
 计划完成以下任务：sql query转relnode。materialize。
 
 别忘记发关于connect google的邮件！
