@@ -312,6 +312,7 @@ RL project终于做完了。
 
 20241223:
 擦屁股。36机器的磁盘满了。先把自己的东西腾出去。pg_dump -h localhost -p 5432 -U pod -n public -F c -b -f /tmp/department_store_syn.dump assets_maintenance_syn
+终于测通重写流程。剩下的就是集成+规模运行了！开干！
 
 计划完成以下任务：sql query转relnode。materialize。
 
