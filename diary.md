@@ -317,7 +317,8 @@ RL project终于做完了。
 20241224:
 完成批量运行重写的准备工作（python部分）
 
-
+20241225：
+学习go rust
 
 计划完成以下任务：sql query转relnode。materialize。
 
