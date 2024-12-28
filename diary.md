@@ -320,6 +320,12 @@ RL project终于做完了。
 20241225：
 学习go rust
 
+241226-27：
+搭calcite rewrite骨架
+
+28：
+修复能够通过硬编码规则程序明显能解决的缺陷；走通测试框架，统计数据
+
 计划完成以下任务：sql query转relnode。materialize。
 
 别忘记发关于connect google的邮件！
