@@ -323,8 +323,18 @@ RL project终于做完了。
 241226-27：
 搭calcite rewrite骨架
 
-28：
+241228-29：
 先统计数据：关键指标&完整的csv文件；修复能够通过硬编码规则程序明显能解决的缺陷；走通测试框架，统计数据
+
+241230:
+流程走通并开会。todo: 
+1. 用gpt生成mv，目前deepseek推理时间太长（avg 10s/turn）。推测可能和网络延迟有关。
+- 看到所有 or turn by turn。如果turn by turn效果非常差，则需要考虑train（holistically review） + test（turn by turn）。
+3. calcite自动生成mv作为baseline。有余力的话做uniview。
+4. 修复各种bug: 无法rewrite（修改rule set）, rewrite报错，ex低（有些列没有被裁减）
+5. 读paper，确认mv creation time是否有被计入cost function or not。
+
+241231:
 
 计划完成以下任务：sql query转relnode。materialize。
 
