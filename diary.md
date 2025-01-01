@@ -335,6 +335,7 @@ RL project终于做完了。
 5. 读paper，确认mv creation time是否有被计入cost function or not。
 
 241231:
+calcite作为baseline的解决方案基本梳理完成：autolattice已经实现。TODO: 注册lattice到schemaplus，把evolve, statisticprovider, rules全都注册到configbuilder上。
 
 计划完成以下任务：sql query转relnode。materialize。
 
