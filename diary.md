@@ -337,7 +337,14 @@ RL project终于做完了。
 241231:
 calcite作为baseline的解决方案基本梳理完成：autolattice已经实现。TODO: 注册lattice到schemaplus，把evolve, statisticprovider, rules全都注册到configbuilder上。
 
-计划完成以下任务：sql query转relnode。materialize。
+250101-0103：
+把lattice注册到schema上。自动生成tile。
+
+250104：
+放弃volcano planner。采用materializationservice方法，或者手动substituion来执行物化视图重写。
+
+251505：
+集成calcite baaeline做测试
 
 别忘记发关于connect google的邮件！
 和差旅报销！
