@@ -341,10 +341,10 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 把lattice注册到schema上。自动生成tile。
 
 250104：
-放弃volcano planner。采用materializationservice方法，或者手动substituion来执行物化视图重写。
+总算把rewrite给搞定了。解决方案：calcite根本不存在显式的接口来用物化视图重写。而是必须走explain query->生成执行计划->生成relnode->生成sql的方式。
 
 251505：
-集成calcite baaeline做测试
+集成calcite baaeline做测试。
 
 别忘记发关于connect google的邮件！
 和差旅报销！
