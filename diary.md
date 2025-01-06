@@ -343,8 +343,11 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 250104：
 总算把rewrite给搞定了。解决方案：calcite根本不存在显式的接口来用物化视图重写。而是必须走explain query->生成执行计划->生成relnode->生成sql的方式。
 
-251505：
-集成calcite baaeline做测试。
+250105：
+重构lattice部分代码。进度：50%完成。
+
+250106：
+queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
 和差旅报销！
