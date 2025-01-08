@@ -346,7 +346,9 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 250105：
 重构lattice部分代码。进度：50%完成。
 
-250106：
+250106-07：
+屁事没干
+
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
