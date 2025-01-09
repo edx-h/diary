@@ -351,7 +351,7 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 
 250108：
 关键词：裸金属、无栈协程
-项目又迁移回36
+项目又迁移回36。
 
 queryexecutor，todos，正式全量
 
