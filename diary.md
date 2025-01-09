@@ -347,7 +347,11 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 重构lattice部分代码。进度：50%完成。
 
 250106-07：
-屁事没干
+屁事没干。不过读了一下C-Store。
+
+250108：
+关键词：裸金属、无栈协程
+项目又迁移回36
 
 queryexecutor，todos，正式全量
 
