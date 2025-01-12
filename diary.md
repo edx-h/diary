@@ -356,6 +356,9 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 250109-0110:
 又是赶工的两天。短期目标：尽全力在两周以内完结cosql数据！绝对不能再做无谓的纠缠了！！！
 
+250111-12:
+读c-store，写ppt
+
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
