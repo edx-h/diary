@@ -359,6 +359,9 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 250111-12:
 读c-store，写ppt...
 
+250113:
+学习2PL--主要是为了调度的冲突可串行化.
+2PC--为了确定分布式事务的提交
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
