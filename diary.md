@@ -362,6 +362,15 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 250113:
 学习2PL--主要是为了调度的冲突可串行化.
 2PC--为了确定分布式事务的提交
+写ppt
+制定本周research规划：大体上要完成cosql baseline 动态（独立+依赖）
+弄好数据合成任务（1h）
+修改单表不能重写bug（2h）
+把目前独立的代码改为依赖的代码（3h）
+
+
+250114：
+写paper review，讲c-store
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
