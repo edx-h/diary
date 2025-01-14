@@ -370,7 +370,7 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 
 
 250114：
-写paper review，讲c-store
+写paper review，讲c-store。完成
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
