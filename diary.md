@@ -374,7 +374,7 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 基本搞定数据合成和单表重写bug代码开发。
 
 250115：
-
+学习基本压缩技术：rle, lz, huffman
 
 queryexecutor，todos，正式全量
 
