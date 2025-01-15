@@ -370,7 +370,12 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 
 
 250114：
-写paper review，讲c-store。完成
+写paper review，讲c-store。完成.
+基本搞定数据合成和单表重写bug代码开发。
+
+250115：
+
+
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
