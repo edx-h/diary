@@ -374,7 +374,9 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 基本搞定数据合成和单表重写bug代码开发。
 
 250115：
-学习基本压缩技术：rle, lz, huffman
+了解基本压缩技术。目前锚定snappy。
+成功修复calcite bug
+规划对话依赖修改：文件夹随机排序函数；删除物化视图函数挪位置。
 
 queryexecutor，todos，正式全量
 
