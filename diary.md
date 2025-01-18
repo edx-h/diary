@@ -378,6 +378,10 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 成功修复calcite bug
 规划对话依赖修改：文件夹随机排序函数；删除物化视图函数挪位置。
 
+250117：
+开会汇报
+
+
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
