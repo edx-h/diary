@@ -381,6 +381,9 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 250117：
 开会汇报
 
+250118-19：
+读paper，考察gpu rmm的可能性。
+
 
 queryexecutor，todos，正式全量
 
