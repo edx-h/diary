@@ -391,10 +391,11 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 决定将重心转移至TPC和JOB。因为cosql数据集质量比较差。到时候写文章做argue。为此我们才不得不根据已有数据集新建dialogue对话。
 发现另外一个问题：如何selection。可能需要比较postgres cost function和一些learned cardinalities模型。需要看literature review（比如国梁的文献综述，找几个具有代表性的cardinality optimizer用上）。以及uniview。
 明日：
-集中calcite-baseline。todo: 1. 测试数据落地函数，2. 编写记录size函数，3. 编写integer programming函数，4. 编写benefit计算的函数，4. 在job, cosql上测试不同size threshold的效果。
+集中calcite-baseline。todo: 1. 测试数据落地函数，2. 编写记录size函数，3. 编写integer programming函数，4. 编写execution time benefit计算的函数（一定是来自postgres的optimizer，即一定是estimated），4. 在job, cosql上测试不同size threshold的效果。
 limit的问题：后续可以慢慢解决。不过现在是完全有理由先手动改成正确的SQL。
 
-后日：gpt
+后日：gpt应用。
+
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
