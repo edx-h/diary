@@ -387,6 +387,10 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 250120:
 把cpp, cuda的基本环境配置了一下。算是完成了。
 
+250121:
+决定将重心转移至TPC和JOB。因为cosql数据集质量比较差。到时候写文章做argue。为此我们才不得不根据已有数据集新建dialogue对话。
+发现另外一个问题：如何selection。可能需要比较postgres cost function和一些learned cardinalities模型。需要看literature review（比如国梁的文献综述，找几个具有代表性的cardinality optimizer用上）。以及uniview。
+
 queryexecutor，todos，正式全量
 
 别忘记发关于connect google的邮件！
