@@ -394,6 +394,10 @@ calcite作为baseline的解决方案基本梳理完成：autolattice已经实现
 集中calcite-baseline。todo: 1. 测试数据落地函数，2. 编写记录size函数，3. 编写integer programming函数，4. 编写execution time benefit计算的函数（一定是来自postgres的optimizer，即一定是estimated），4. 在job, cosql上测试不同size threshold的效果。
 limit的问题：后续可以慢慢解决。不过现在是完全有理由先手动改成正确的SQL。
 
+250122：
+calcite基本调试完毕。待测
+
+
 后日：gpt应用。
 
 queryexecutor，todos，正式全量
