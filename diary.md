@@ -401,6 +401,9 @@ calcite基本调试完毕。待测
 200k cosql运行完毕
 今日目标：JOB运行完毕。JOB发现了问题：1. 多表连接瞎几把join; 2. 多表引发的on字段排布不等价。初步方案：只要表的数目一样，直接把mv的from表部分 和 where on部分直接照搬到原sql。这样应该就能重写了。路线：把where涉及on的部分全部删除。然后整体把新的from替换到旧的from。
 
+250124：开会
+
+
 后日：IP。
 
 queryexecutor，todos，正式全量
