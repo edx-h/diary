@@ -408,6 +408,14 @@ calcite基本调试完毕。待测
 250126: 
 计划明日：线性规划做了结。JOB数据集 calcite重写做了结
 
+250127:
+基本把JOB数据集的替换工作做完了
+
+250128：
+1. 把JOB数据集拆成多个对话
+2. 并行运行JOB数据集calcite benchmark
+3. 线性规划
+
 后日：IP。
 
 queryexecutor，todos，正式全量
