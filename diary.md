@@ -415,7 +415,7 @@ calcite基本调试完毕。待测
 屁事没干
 
 250129-30:
-纯calcite基本应该能算完结了。
+纯calcite基本应该能算完结了。发现了dremio的reflection。可能可以作为一个benchmark
 
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
