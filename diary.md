@@ -417,6 +417,12 @@ calcite基本调试完毕。待测
 250129-30:
 纯calcite基本应该能算完结了。发现了dremio的reflection。可能可以作为一个benchmark
 
+250131：
+开会汇报
+
+250201：
+学习arrow想idea
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
