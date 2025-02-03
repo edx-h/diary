@@ -423,6 +423,8 @@ calcite基本调试完毕。待测
 250201：
 学习arrow想idea
 
+250202：
+写一篇review
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
