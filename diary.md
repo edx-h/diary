@@ -429,6 +429,15 @@ calcite基本调试完毕。待测
 250203：
 写另一篇review。基本完成project idea构思
 
+250204：
+写proposal
+
+250205:
+研究uniview
+
+250206：
+先给出一版数据。静态，对话依赖。用整数线性规划给出各个space capacity情况下的推荐物化视图，加速比。一定要注意考虑ex！！！！！至于动态，后续可能需要用到rl框架来预测cost。
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
