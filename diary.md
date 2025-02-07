@@ -437,6 +437,7 @@ calcite基本调试完毕。待测
 
 250206：
 先给出一版数据。静态，对话依赖。用整数线性规划给出各个space capacity情况下的推荐物化视图，加速比。一定要注意考虑ex！！！！！至于动态，后续可能需要用到rl框架来预测cost。
+会后，思考了很多。当务之急是自己要闯出一些名堂来。就拿gpu这个project作为抓手。memory, persistent-memory。
 
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
