@@ -442,6 +442,9 @@ calcite基本调试完毕。待测
 250207：
 写一个review
 
+250208:
+JOB生成NL question
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
