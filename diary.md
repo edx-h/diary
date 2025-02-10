@@ -445,6 +445,9 @@ calcite基本调试完毕。待测
 250208:
 基本确定了JOB生成NL question的思路。明天开干！！！
 
+250209：
+prompt基本写好
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
