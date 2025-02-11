@@ -448,6 +448,9 @@ calcite基本调试完毕。待测
 250209：
 prompt基本写好
 
+250210：
+基本确定了project要做啥。group by和连接 
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
