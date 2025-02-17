@@ -467,6 +467,9 @@ prompt基本写好
 240215：
 配置cuda环境
 
+240216：
+过数据集，初步学习cmake
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
