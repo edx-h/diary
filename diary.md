@@ -474,7 +474,9 @@ prompt基本写好
 决定自己实现一版拼接的NL。修改mv推荐workflow(1/2)。
 
 250218（周二）:
-修改mv推荐workflow（2/2）并测试。主要任务：修改prompt（添加schema, 输出rewrite sql）。把ex计算融入评价模型中。
+修改mv推荐workflow（2/2）。主要任务：修改prompt（添加schema, 输出rewrite sql）。
+
+250219（周三）：测试并把ex计算融入评价模型中。
 后续：可能涉及到calcite融入重写，不加nl情况，uniview数据剔除ex错误的情况，实现自己那一版的NL比较结果。
 
 1. 把JOB数据集拆成多个对话
