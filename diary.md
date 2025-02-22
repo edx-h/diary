@@ -479,6 +479,11 @@ prompt基本写好
 250219（周三）：测试并把ex计算融入评价模型中。
 后续：可能涉及到calcite融入重写，不加nl情况，uniview数据剔除ex错误的情况，实现自己那一版的NL比较结果。
 
+250220：得到baseline result
+
+250221：开会
+
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
