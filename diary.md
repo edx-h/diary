@@ -483,6 +483,8 @@ prompt基本写好
 
 250221：开会
 
+250222：
+写paper review
 
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
