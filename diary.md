@@ -492,6 +492,11 @@ prompt基本写好
 250224：
 搞了下gpu，又读了篇paper
 
+250225-26：
+搭建静态workflow, 写prompt
+
+250227：
+必须正式测流程！！！！！
 
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
