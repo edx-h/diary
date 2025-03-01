@@ -498,6 +498,13 @@ prompt基本写好
 250227：
 必须正式测流程！！！！！
 
+250228:
+开会。效果不太好。要继续静态
+读b link tree的paper
+
+250301：
+做ppt，完成另一篇paper的review
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
