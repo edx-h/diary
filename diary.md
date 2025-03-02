@@ -504,6 +504,8 @@ prompt基本写好
 
 250301：
 做ppt，完成另一篇paper的review
+收拾心情。
+设置了auto deposit, health care的auto pay
 
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
