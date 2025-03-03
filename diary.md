@@ -512,6 +512,7 @@ prompt基本写好
 
 250303:
 跑通了truthscope。计划：改前端为gradio。写proposal。
+This can be a link to a video describing your project, your code base, your project documentation or presentation, etc.
 
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
