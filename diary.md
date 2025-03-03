@@ -510,6 +510,9 @@ prompt基本写好
 250302：
 总算做完了ppt。决定参加ED I J项目。读paper
 
+250303:
+跑通了truthscope。计划：改前端为gradio。写proposal。
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
