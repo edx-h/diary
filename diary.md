@@ -514,6 +514,16 @@ prompt基本写好
 跑通了truthscope。计划：改前端为gradio。写proposal。
 This can be a link to a video describing your project, your code base, your project documentation or presentation, etc.
 
+250304-5：
+984gpu project
+
+250306-07：
+把mv generation和query rewrite分开。calcite rewrite转api。后续可能还是需要研究字符串层级的sql修改以适配calcit（可以制定几个典型的fewshot让gpt写），可”操作”空间也比较大。不过还是先把llm给做好。
+
+250308:
+提交optiql，EDIJ搞1-2个小时，主攻mv
+
+
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
 3. 线性规划
