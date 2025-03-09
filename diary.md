@@ -521,7 +521,10 @@ This can be a link to a video describing your project, your code base, your proj
 把mv generation和query rewrite分开。calcite rewrite转api。后续可能还是需要研究字符串层级的sql修改以适配calcit（可以制定几个典型的fewshot让gpt写），可”操作”空间也比较大。不过还是先把llm给做好。
 
 250308:
-提交optiql，EDIJ搞1-2个小时，主攻mv
+丢手机，提交optiql。
+
+250309
+EDIJ可以做的改造：前端，gemini改deepseek，记日志，配置搞成hydra。搞1-2个小时，主攻mv
 
 
 1. 把JOB数据集拆成多个对话
