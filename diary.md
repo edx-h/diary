@@ -526,6 +526,11 @@ This can be a link to a video describing your project, your code base, your proj
 250309
 EDIJ可以做的改造：前端，gemini改deepseek，记日志，配置搞成hydra。搞1-2个小时，主攻mv
 
+250310-11：
+10日登记手机，
+11日手机找到了！
+发现了新大陆！CSIL！几乎没有人使用！
+llm baseline框架搭建。后续优化：无脑全怼，随机，各cluster数量，不给schema，给schema不给注解，修正语法错误mv SQL/重写（给提示/给提示+推理），各种refine的策略（比如训个learned cost estimator，那3篇论文等等）。
 
 1. 把JOB数据集拆成多个对话
 2. 并行运行JOB数据集calcite benchmark
