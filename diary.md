@@ -532,10 +532,11 @@ EDIJ可以做的改造：前端，gemini改deepseek，记日志，配置搞成hy
 发现了新大陆！CSIL！几乎没有人使用！
 llm baseline框架搭建。后续优化：无脑全怼，随机，各cluster数量，不给schema，给schema不给注解，修正语法错误mv SQL/重写（给提示/给提示+推理），各种refine的策略（比如训个learned cost estimator，那3篇论文等等）。
 
-1. 把JOB数据集拆成多个对话
-2. 并行运行JOB数据集calcite benchmark
-3. 线性规划
+250312-14: 用qwen 32b跑推理模型尝试。跑静态场景下的baseline结果。
 
+250315-16: 写scheduling paper review 
+
+250317：部署EDIJ的RAG模型。全面end-to-end计时。
 
 后日：IP。
 
