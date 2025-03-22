@@ -538,6 +538,12 @@ llm baseline框架搭建。后续优化：无脑全怼，随机，各cluster数�
 
 250317：部署EDIJ的RAG模型。全面end-to-end计时。
 
+250318-19：主要是在搞RAG项目。
+
+250320：Redshift，用UniView改写LLM MV
+
+250321: 开会，看起来他还比较满意。
+
 后日：IP。
 
 queryexecutor，todos，正式全量
