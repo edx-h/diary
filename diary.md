@@ -546,6 +546,58 @@ llm baseline框架搭建。后续优化：无脑全怼，随机，各cluster数�
 
 250322: 两篇paper必须完结！！！！！
 
+250323: 搞完两篇paper。
+
+SSH：
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host 10.3.10.166_dell
+    HostName 10.3.10.166
+    User dell
+
+Host 10.3.10.166_starglm
+    HostName 10.3.10.166
+    User starglm
+
+Host 36.103.203.203
+    HostName 36.103.203.203
+    User pod
+    Port 34241
+    ForwardAgent yes
+
+Host 142.58.22.188
+    HostName 142.58.22.188
+    User xha102
+
+Host 119.255.238.25
+    HostName 119.255.238.25
+    Port 61222
+    User wangcunshi
+
+Host 192.75.242.213
+    HostName 192.75.242.213
+    Port 222
+    User dolly
+
+Host secb1010-a12.csil.sfu.ca
+    HostName secb1010-a12.csil.sfu.ca
+    Port 24
+    User xha102
+
+Host secb1010-b12.csil.sfu.ca
+    HostName secb1010-b12.csil.sfu.ca
+    Port 24
+    User xha102
+
+Host secb1010-c12.csil.sfu.ca
+    HostName secb1010-c12.csil.sfu.ca
+    Port 24
+    User xha102
+
+Host 98.82.34.109
+    HostName 98.82.34.109
+    Port 22
+    User ubuntu
+    
 后日：IP。
 
 queryexecutor，todos，正式全量
