@@ -598,6 +598,12 @@ Host 98.82.34.109
     Port 22
     User ubuntu
     
+250324:
+研究导入redshift流程。刷cs 144
+
+250325:
+成功导入redshift。刷cs 144。
+
 后日：IP。
 
 queryexecutor，todos，正式全量
