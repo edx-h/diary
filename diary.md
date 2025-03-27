@@ -606,15 +606,16 @@ Host 98.82.34.109
 
 250326:
 1. 已经确定automv生效。跑出了延迟加速。
-2. UniView debug并且验证最终结果。
-3. 
+2. UniView debug，确认就是一些表出现多次的原因。这就是UniView本身的缺陷。
 
+250327：
+1. UniView验证EX，计算acceleration ratio。
+2. 统计AutoMV加速比率（没有办法统计size大小）。
 
-后日：IP。
+本周剩余todo: 
+Redshift执行MV和MV sql，end-to-end 统计。
+end-to-end统计
+calcite修bug（这周就算了）
+LLM rewrite UniView
 
-queryexecutor，todos，正式全量
-
-别忘记发关于connect google的邮件！
 和差旅报销！
-
-必须完结。
