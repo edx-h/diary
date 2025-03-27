@@ -604,6 +604,12 @@ Host 98.82.34.109
 250325:
 成功导入redshift。刷cs 144。
 
+250326:
+1. 已经确定automv生效。跑出了延迟加速。
+2. UniView debug并且验证最终结果。
+3. 
+
+
 后日：IP。
 
 queryexecutor，todos，正式全量
