@@ -609,7 +609,7 @@ Host 98.82.34.109
 2. UniView debug，确认就是一些表出现多次的原因。这就是UniView本身的缺陷。
 
 250327：
-1. UniView验证EX，计算acceleration ratio。2h
+1. UniView验证EX，计算acceleration ratio。2h。已完成。UniView重写的全是错的。
 2. 统计AutoMV加速比率（没有办法统计size大小）。2h
 3. Redshift执行MV和MV sql，end-to-end 统计。2h
 4. end-to-end统计。2h
