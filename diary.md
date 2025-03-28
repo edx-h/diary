@@ -610,9 +610,12 @@ Host 98.82.34.109
 
 250327：
 1. UniView验证EX，计算acceleration ratio。2h。已完成。UniView重写的全是错的。
-2. 统计AutoMV加速比率（没有办法统计size大小）。2h
-3. Redshift执行MV和MV sql，end-to-end 统计。2h
-4. end-to-end统计。2h
+3. Redshift执行MV和MV sql，end-to-end 统计。2h。完成90%。等待明天统计数据。
+
+250328：
+1. 统计AutoMV加速比率（没有办法统计size大小）。1h
+2. end-to-end统计。2h。重跑一遍应该不是难事。难点在于埋点。
+3. 认认真真地整理笔记（几大块：1. 运行UniView的重写结果，2. 运行automv的重写结果&和redshift上运行LLM重写结果的加速比较，3. 端到端的对比结果）。
 
 本周剩余todo: 
 calcite修bug（这周就算了）
