@@ -620,7 +620,7 @@ Host 98.82.34.109
 
 250329-31：
 准备aurora的ppt。
-0331: 证实了即使join order对齐，只要差异表格>=2，calcite就根本没有办法重写。
+0331: 证实了即使join order对齐，只要差异表格>=2，calcite就根本没有办法重写。我决定了，calcite就这样盖棺定论了！！！！！
 
 本周剩余todo: 
 calcite修bug（这周就算了）
