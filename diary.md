@@ -622,6 +622,12 @@ Host 98.82.34.109
 准备aurora的ppt。
 0331: 证实了即使join order对齐，只要差异表格>=2，calcite就根本没有办法重写。我决定了，calcite就这样盖棺定论了！！！！！
 
+250401:
+1. 推理需要改的prompt点：
+以general purpose为例：
+1. 查询22d，ON里面出现了非法子查询。导致在Redshift上卡住了。
+2. 查询12c，重写后的查询根本没有follow as后的新列名。
+
 本周剩余todo: 
 calcite修bug（这周就算了）
 LLM rewrite UniView。
