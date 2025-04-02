@@ -625,8 +625,14 @@ Host 98.82.34.109
 250401:
 1. 推理需要改的prompt点：
 以general purpose为例：
-1. 查询22d，ON里面出现了非法子查询。导致在Redshift上卡住了。
-2. 查询12c，重写后的查询根本没有follow as后的新列名。
+   1. 查询22d，ON里面出现了非法子查询。导致在Redshift上卡住了。
+   2. 查询12c，重写后的查询根本没有follow as后的新列名。
+2. 基本redshift完成了任务（90/100）。
+3. present aurora
+
+250402：
+1. 彻底完成redshift。要求：组合新的自动化灌入数据的脚本。
+2. 
 
 本周剩余todo: 
 calcite修bug（这周就算了）
