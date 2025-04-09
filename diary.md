@@ -641,6 +641,18 @@ Host 98.82.34.109
 250403：
 塞肉！
 
+250404：
+开会
+
+250405：
+整天购物
+
+250406-07：
+project收尾
+
+250409:
+写project报告
+
 本周剩余todo: 
 calcite修bug（这周就算了）
 LLM rewrite UniView。
