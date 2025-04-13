@@ -656,6 +656,10 @@ project收尾
 250412：
 算是有重大进展吧。翻到了presto的源代码。至此，最好的情况下，除去LLM有6个rewrite的benchmark。本周的任务：完成query rewrite和execution! 
 
+presto, starrocks的部署
+presto, starrocks的功能测试
+oracle的部署，功能测试。
+
 本周剩余todo: 
 calcite修bug（这周就算了）
 LLM rewrite UniView。
