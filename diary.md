@@ -656,6 +656,13 @@ project收尾
 250412：
 算是有重大进展吧。翻到了presto的源代码。至此，最好的情况下，除去LLM有6个rewrite的benchmark。本周的任务：完成query rewrite和execution! 
 
+250413:
+完成了presto的部署和功能测试。
+部署方式：抄单测。纯java交互。后续会封装成api。
+功能测试：
+证实：功能非常弱。支持查询被多个MV重写，但是一个mv必须只能包含一个relation。即不支持具有多表join的mv的重写！而且，必须要显式的，以子查询的方式“提示”presto，presto才知道可以重写。
+formatsql函数好像也有问题。不会自动生成alias。
+
 presto, starrocks的部署
 presto, starrocks的功能测试
 oracle的部署，功能测试。
