@@ -663,6 +663,9 @@ project收尾
 证实：功能非常弱。支持查询被多个MV重写，但是一个mv必须只能包含一个relation。即不支持具有多表join的mv的重写！而且，必须要显式的，以子查询的方式“提示”presto，presto才知道可以重写。
 formatsql函数好像也有问题。不会自动生成alias。
 
+250414:
+又有重大发现：doris也支持query rewrite。今天完成了doris和starrocks的初步测试。doris还提供无法重写的原因具体分析。
+
 presto, starrocks的部署
 presto, starrocks的功能测试
 oracle的部署，功能测试。
