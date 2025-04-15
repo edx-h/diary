@@ -665,6 +665,7 @@ formatsql函数好像也有问题。不会自动生成alias。
 
 250414:
 又有重大发现：doris也支持query rewrite。今天完成了doris和starrocks的初步测试。doris还提供无法重写的原因具体分析。
+maxcompute: https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/download%2Fpdf%2F27990%2FDevelopment_intl_en-US.pdf#page=180.13
 
 presto, starrocks的部署
 presto, starrocks的功能测试
