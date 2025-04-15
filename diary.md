@@ -669,6 +669,12 @@ maxcompute: https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/download%2Fpd
 celerdb好像甚至支持recommendation。
 argument：要经过溯源、套壳分析（例如celerdb就是基于starrocks的）
 
+250415:
+把rewrite都搞完
+
+250416：
+把execution都搞完。
+
 presto, starrocks的部署
 presto, starrocks的功能测试
 oracle的部署，功能测试。
