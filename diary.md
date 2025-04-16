@@ -672,8 +672,10 @@ argument：要经过溯源、套壳分析（例如celerdb就是基于starrocks�
 250415:
 数据导入工作流基本完成。但是发现starrocks导入特别的慢。后续解决方案：抛弃insert into, 调参，切到云机器再试。
 
-250416：
-把execution都搞完。
+250416:
+doris, starrocks数据确认成功导入库中。
+重写, execution流程融入到doris和starrocks
+
 
 presto, starrocks的部署
 presto, starrocks的功能测试
