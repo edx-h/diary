@@ -670,7 +670,7 @@ celerdb好像甚至支持recommendation。
 argument：要经过溯源、套壳分析（例如celerdb就是基于starrocks的）
 
 250415:
-把rewrite都搞完
+数据导入工作流基本完成。但是发现starrocks导入特别的慢。后续解决方案：抛弃insert into, 调参，切到云机器再试。
 
 250416：
 把execution都搞完。
