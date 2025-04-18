@@ -682,6 +682,7 @@ doris, starrocks数据确认成功导入库中。
 250418：
 写代码，判断被重写的个数。
 调节这些rewrite开关再试一波。https://doris.apache.org/zh-CN/docs/dev/query-acceleration/materialized-view/async-materialized-view/functions-and-demands#%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE
+调整sql格式，探索没有被重写的原因。
 现有逻辑把starrocks集成
 开会
 
