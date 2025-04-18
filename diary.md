@@ -674,8 +674,16 @@ argument：要经过溯源、套壳分析（例如celerdb就是基于starrocks�
 
 250416:
 doris, starrocks数据确认成功导入库中。
-重写, execution流程融入到doris和starrocks
+重写, execution流程融入到doris（1/2）
 
+250417：
+代码正式支持了doris上auto rewrite。不过看又是一个重写的都没有。而且延迟居然还上升了。
+
+250418：
+写代码，判断被重写的个数。
+查看是否有调节rewrite的开关。
+集成starrocks
+开会
 
 presto, starrocks的部署
 presto, starrocks的功能测试
