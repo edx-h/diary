@@ -681,8 +681,8 @@ doris, starrocks数据确认成功导入库中。
 
 250418：
 写代码，判断被重写的个数。
-查看是否有调节rewrite的开关。
-集成starrocks
+调节这些rewrite开关再试一波。https://doris.apache.org/zh-CN/docs/dev/query-acceleration/materialized-view/async-materialized-view/functions-and-demands#%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE
+现有逻辑把starrocks集成
 开会
 
 presto, starrocks的部署
