@@ -686,9 +686,12 @@ doris, starrocks数据确认成功导入库中。
 现有逻辑把starrocks集成
 开会
 
-presto, starrocks的部署
-presto, starrocks的功能测试
-oracle的部署，功能测试。
+250419：
+没干活
+
+250420：
+完成了hive的”数据导入“和建表
+规划模块化方案。
 
 本周剩余todo: 
 calcite修bug（这周就算了）
