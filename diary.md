@@ -695,6 +695,11 @@ doris, starrocks数据确认成功导入库中。
 250421:
 规划模块化方案。
 
+250422:
+实现了部分basic data structure
+
+
+
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
