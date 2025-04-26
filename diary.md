@@ -700,7 +700,14 @@ doris, starrocks数据确认成功导入库中。
 
 250423-25：陷入迷茫中。推进的不顺利。主要是未来的活太多了。要硬碰硬了。
 开会过后确定：必须坚持现在的路线。充分解耦candidate generation和recommendation。再加上rewrite功能。
-光环云配置好了postgres。测通了解决readline的一个路线。
+光环云配置好了postgres。测通了解决readline的一个路线（参考deepseek的回答）：conda安装conda install -c conda-forge readline，然后执行python脚本python -c "import readline; print(readline.__file__)"查看文件路径。把路径添加到./config中。./configure \
+  --prefix=$(pwd) \
+  --enable-cassert \
+  --enable-debug \
+  --with-includes=$CONDA_PREFIX/include \
+  --with-libraries=$CONDA_PREFIX/lib
+
+这样成功把pg安装到了sfu和cas的机器上！
 
 250426：
 
