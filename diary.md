@@ -698,7 +698,11 @@ doris, starrocks数据确认成功导入库中。
 250422:
 实现了部分basic data structure
 
+250423-25：陷入迷茫中。推进的不顺利。主要是未来的活太多了。要硬碰硬了。
+开会过后确定：必须坚持现在的路线。充分解耦candidate generation和recommendation。再加上rewrite功能。
+光环云配置好了postgres。测通了解决readline的一个路线。
 
+250426：
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
