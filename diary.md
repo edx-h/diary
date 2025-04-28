@@ -709,7 +709,8 @@ doris, starrocks数据确认成功导入库中。
 
 这样成功把pg安装到了sfu和cas的机器上！
 
-250426：
+250426-27：
+gpt pro用着就是顺手。基本已经快把mv enumerator搞完了。
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
