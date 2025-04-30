@@ -710,7 +710,21 @@ doris, starrocks数据确认成功导入库中。
 这样成功把pg安装到了sfu和cas的机器上！
 
 250426-27：
-gpt pro用着就是顺手。基本已经快把mv enumerator搞完了。
+gpt pro用着就是顺手。基本已经快把bigsubs和yang 1997的mv enumerator搞完了。
+
+250428：
+大选，vancouver island。
+
+250429：
+uniview在enumerator方面的改造。引入更多candidates。part I。增加了selectivity。重点：是否允许谓词膨胀。发现uniview确实还是有规则上的缺陷，比如谓词矛盾等。
+
+250430：
+必须完成uniview的扩展。包含：max join, 收益测算的（高频低收益，低频高收益）和剩余的selectivity问题。
+
+250431 （周四）：
+wrap up enumerator。
+
+250501： 开会，主要汇报candidate enumerator，如果有余力可以先看一下初步rewrite的结果。
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
