@@ -720,9 +720,10 @@ uniview在enumerator方面的改造。引入更多candidates。part I。增加�
 
 250430：
 必须完成uniview的扩展。包含：max join, 收益测算的（高频低收益，低频高收益）和剩余的selectivity问题。
+实际上：累了，该做了了解了。selectivity和benefit应该改都开发完了。
 
 250431 （周四）：
-wrap up enumerator。
+wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得出一些描述性指标。
 
 250501： 开会，主要汇报candidate enumerator，如果有余力可以先看一下初步rewrite的结果。
 
