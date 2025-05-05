@@ -722,14 +722,25 @@ uniview在enumerator方面的改造。引入更多candidates。part I。增加�
 必须完成uniview的扩展。包含：max join, 收益测算的（高频低收益，低频高收益）和剩余的selectivity问题。
 实际上：累了，该做了了解了。selectivity和benefit应该改都开发完了。
 
-250431 （周四）：
+250501 （周四）：
+回忆，应该是在继续写代码吧
+
+250502：
+开会。认识了andy。启动了gpu项目。
+
+250503：去NNM
+
+250504：专注于gpu项目。确定了挑选任务的维度框架（包含调用频率、任务目的、修改代码的程度）；找了一批AI4DB的literature review；找了一波相关的工作组。
+
+250505：
+
 wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得出一些描述性指标。
 
 250501： 开会，主要汇报candidate enumerator，如果有余力可以先看一下初步rewrite的结果。
+
+250504:
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
 LLM rewrite UniView。
-
-和差旅报销！
