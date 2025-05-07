@@ -733,6 +733,13 @@ uniview在enumerator方面的改造。引入更多candidates。part I。增加�
 250504：专注于gpu项目。确定了挑选任务的维度框架（包含调用频率、任务目的、修改代码的程度）；找了一批AI4DB的literature review；找了一波相关的工作组。
 
 250505：
+选workload
+
+250506:
+精读了一半llumnix。cosql迁移zhisuan平台
+
+250507：
+
 
 wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得出一些描述性指标。
 
