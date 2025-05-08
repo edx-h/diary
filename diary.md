@@ -739,7 +739,10 @@ uniview在enumerator方面的改造。引入更多candidates。part I。增加�
 精读了一半llumnix。cosql迁移zhisuan平台
 
 250507：
+开GPU的会。
 
+250508：
+听waterloo大牛的讲座。把mlflow引入mv项目。
 
 wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得出一些描述性指标。
 
