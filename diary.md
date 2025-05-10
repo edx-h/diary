@@ -744,11 +744,12 @@ uniview在enumerator方面的改造。引入更多candidates。part I。增加�
 250508：
 听waterloo大牛的讲座。把mlflow引入mv项目。
 
-wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得出一些描述性指标。
+250509:
+把mlflow引入mv项目，实践成功。
 
-250501： 开会，主要汇报candidate enumerator，如果有余力可以先看一下初步rewrite的结果。
+250510：
+wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得出一些描述性指标。同时总结cost model。
 
-250504:
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
