@@ -749,6 +749,9 @@ uniview在enumerator方面的改造。引入更多candidates。part I。增加�
 
 250510：
 wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得出一些描述性指标。同时总结cost model。
+宝藏网站：lens, openalex, 国外硕博论文：proquest, ndltd
+
+250511:
 
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
