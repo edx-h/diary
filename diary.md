@@ -752,7 +752,13 @@ wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得�
 宝藏网站：lens, openalex, 国外硕博论文：proquest, ndltd
 
 250511:
+改bigsubs代码
 
+250512:
+厘清uniview的适配逻辑
+
+250513：
+改造uniview
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
