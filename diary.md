@@ -763,7 +763,12 @@ wrap up enumerator。具体任务：把uniview对齐到canonical plan。先得�
 250515-18:
 时间全都浪费在TA上了
 
-
+250519:
+uniview get candidate正式完结
+分析静态场景可能的组合以及难度评估
+本周里程碑：静态场景，不交叉情况下information collection模块 和 recommendation模块代码要写完
+交叉
+动态
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
