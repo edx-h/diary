@@ -768,7 +768,7 @@ uniview get candidate正式完结
 分析静态场景可能的组合以及难度评估
 本周里程碑：静态场景，不交叉情况下information collection模块 和 recommendation模块代码要写完
 交叉
-动态
+动态交叉不交叉*2周。即6月20号代码开发应该全部完成。
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
