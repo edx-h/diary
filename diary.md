@@ -774,6 +774,9 @@ uniview get candidate正式完结
 250520-21：实现bigsubs。
 冒出了一个新的，严重问题：候选集出现了很多笛卡尔积。要把这个问题给解决。
 
+250522:
+看起来无论secb还是tianzheng的机器，装docker就不要想了。不过也可以有workaround: 非rewrite的阶段，全都不涉及docker。只有rewrite的时候再搬回142机器执行。总之问题不大，绝不是耽误科研进程的借口。
+
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
