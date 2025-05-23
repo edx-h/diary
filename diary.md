@@ -776,6 +776,7 @@ uniview get candidate正式完结
 
 250522:
 看起来无论secb还是tianzheng的机器，装docker就不要想了。不过也可以有workaround: 非rewrite的阶段，全都不涉及docker。只有rewrite的时候再搬回142机器执行。总之问题不大，绝不是耽误科研进程的借口。
+决定了，下个月从gpt pro改为以下组合：gpt pro -> gpt plus, 新增claude 5* max. 原本含税价格从CAD 313降至CAD 188。节省40%费用。 
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
