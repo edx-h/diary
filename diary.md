@@ -826,6 +826,14 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
     - 比较之前实现两版本的提示词。高度怀疑yang 1997用的是逗号连接的数据
 2. 24号：搭建好bigsubs的推荐层。注意要评估并且支持把*转为表名+列名的格式。25号：联通各阶段。
 
+250524:
+在real_size, real_latency都是false的情况下，把bigsubs的information collection给跑通了。重要的进展：过滤了>4张表的查询；测度cost_to_sec的时候，采用了更快捷的分层抽样+并行的方式。
+
+250525：
+实现bigsubs的recommendation
+
+250526：
+联通rewrite
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
