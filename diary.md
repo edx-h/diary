@@ -830,10 +830,12 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 在real_size, real_latency都是false的情况下，把bigsubs的information collection给跑通了。重要的进展：过滤了>4张表的查询；测度cost_to_sec的时候，采用了更快捷的分层抽样+并行的方式。
 
 250525：
-实现bigsubs的recommendation
+实现bigsubs的recommendation。已经完成了。ilp vs bigsubs，实际上ilp是精确但是慢的，适合小规模。bigsubs适合大规模速度快但是只是近似。我们的场景只用bigsubs即可。所以相当于bigsubs全链路都已经弄完了！
 
 250526：
 联通rewrite
+
+250527:
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
