@@ -833,7 +833,7 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 实现bigsubs的recommendation。已经完成了。ilp vs bigsubs，实际上ilp是精确但是慢的，适合小规模。bigsubs适合大规模速度快但是只是近似。我们的场景只用bigsubs即可。所以相当于bigsubs全链路都已经弄完了！
 
 250526：
-成功安装了starrocks, doris,
+成功安装了starrocks, doris。尝试了hive，但是装不上。之后再试试吧。先放了。
 确定了本学期的组会时间：周三组会，周五两个小会。
 本周预期目标：mv串通出结果；gpu有基本的benchmark结果。都不是很艰巨的任务。
 
