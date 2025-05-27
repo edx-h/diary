@@ -833,6 +833,8 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 实现bigsubs的recommendation。已经完成了。ilp vs bigsubs，实际上ilp是精确但是慢的，适合小规模。bigsubs适合大规模速度快但是只是近似。我们的场景只用bigsubs即可。所以相当于bigsubs全链路都已经弄完了！
 
 250526：
+成功安装了starrocks, doris,
+
 联通rewrite
 
 250527:
