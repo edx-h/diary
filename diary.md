@@ -840,6 +840,7 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 联通rewrite
 
 250527:
+用原始查询压测了一下starrocks。除了三个小问题要修改（priority port导致backend重启失败，replication num, 关键字加引号），没有其他的问题（比如运行时的崩溃）。
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
