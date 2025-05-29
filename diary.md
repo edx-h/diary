@@ -842,6 +842,10 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 250527:
 用原始查询压测了一下starrocks。除了三个小问题要修改（priority port导致backend重启失败，replication num, 关键字加引号），没有其他的问题（比如运行时的崩溃）。
 
+250528:
+1. mv：就差临门一脚recommend了
+2. gpu: 算是磕磕绊绊把环境装完了。明天还需要重新过一遍。
+3. 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
