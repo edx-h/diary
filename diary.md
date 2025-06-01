@@ -855,7 +855,14 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 
 250531：
 基本上算是玩了一天吧。
-   
+
+250601:
+expectation:
+读athena的paper
+做ppt
+浏览本周ppt
+开始运行真实数据
+
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
