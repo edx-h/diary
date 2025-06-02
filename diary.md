@@ -859,7 +859,7 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 250601:
 expectation:
 读athena的paper
-做ppt
+做ppt √
 浏览本周ppt
 开始运行真实数据
 
