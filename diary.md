@@ -860,8 +860,10 @@ uniview至少不存在笛卡尔积问题，倒是可以继续跑。
 expectation:
 读athena的paper
 做ppt √
-浏览本周ppt
-开始运行真实数据
+
+250602:
+浏览本周ppt完成
+mv: rewriter
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
