@@ -863,7 +863,7 @@ expectation:
 
 250602:
 浏览本周ppt完成
-mv: rewriter
+mv: rewriter开了个头。我决定本周就一心一意搞rewriting。
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
