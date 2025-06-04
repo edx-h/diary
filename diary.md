@@ -865,6 +865,12 @@ expectation:
 浏览本周ppt √
 mv: rewriter开了个头。我决定本周就一心一意搞rewriting。每日安排：截止二：完成migrator和rewriter。截止三：完成evaluator.周四还得干gpu的活呢。
 
+250603：
+进行rewriting
+
+250604：
+开组会。必须把rewriting完成！！！！！
+
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
