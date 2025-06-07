@@ -871,6 +871,13 @@ mv: rewriter开了个头。我决定本周就一心一意搞rewriting。每日�
 250604：
 开组会。必须把rewriting完成！！！！！
 
+250605-06：
+rewriting已经取得了重大进展。
+
+250607：
+买鞋，costco，取jellycat玩具
+
+
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
