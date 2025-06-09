@@ -877,7 +877,13 @@ rewriting已经取得了重大进展。
 250607：
 买鞋，costco，取jellycat玩具
 
+250608:
+学了一些杂七杂八的东西
 
+250609：
+本周：
+mv：静态结束。测通doris, presto, hive。evaluator。
+gpu: 跑通athena仓库。
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
