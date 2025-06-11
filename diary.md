@@ -881,9 +881,19 @@ rewriting已经取得了重大进展。
 学了一些杂七杂八的东西
 
 250609：
-本周：
+本周规划：
 mv：静态结束。测通doris, presto, hive。evaluator。
 gpu: 跑通athena仓库。
+
+250610：
+决定对rewrite重构一下。主要是并行物化和多种计算benefit和排序的方式。
+
+250611：
+专门干gpu的事情。
+
+250612-13：
+收尾rewrite。
+
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
 calcite修bug（这周就算了）
