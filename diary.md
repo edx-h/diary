@@ -891,8 +891,12 @@ gpu: 跑通athena仓库。
 250611：
 专门干gpu的事情。
 
-250612-13：
-收尾rewrite。
+250612-17：
+效率极低。不知道在干什么。判作业、学binary analsis，做sync meeting
+
+250618：
+决定新抽象出一个pruner类，负责后续可能引入的排序。以及，决定把物化测size的流程直接提前到mv candidate enumerator。超时了的直接drop。但是最后一定要删除！
+还要排查一个问题，为什么7张表的join还会被推荐为true
 
 本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
 
