@@ -898,7 +898,16 @@ gpu: 跑通athena仓库。
 决定新抽象出一个pruner类，负责后续可能引入的排序。以及，决定把物化测size的流程直接提前到mv candidate enumerator。超时了的直接drop。但是最后一定要删除！
 还要排查一个问题，为什么7张表的join还会被推荐为true
 
-本周剩余todo: 集成hive，把auto-rewrite功能测试给完全搞完！
+250619：
+GPU临时抱佛脚
 
-calcite修bug（这周就算了）
-LLM rewrite UniView。
+250620：
+开会
+
+250621-22：
+庆生、判作业
+
+250623-25:
+cosql优化：MV测度提前到stage_summary执行，hive物化视图功能测通。
+gpu安装nsys
+
