@@ -911,3 +911,6 @@ GPU临时抱佛脚
 cosql优化：MV测度提前到stage_summary执行，hive物化视图功能测通。
 gpu安装nsys
 
+250626:
+基本测通了hive。
+
