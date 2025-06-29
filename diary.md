@@ -914,3 +914,11 @@ gpu安装nsys
 250626:
 基本测通了hive。
 
+250627：
+开会。
+
+250628：
+整整一天判作业。基本判完了。
+
+250629：
+一次排查问题的典范。解决了hive max counter的问题。先自己试了一堆调优语句（通过cursor execute执行），发现好像不行。换成pyhive connection建立时configuration配置，还是没有生效。另一方面问chatgpt找到了日志路径：/tmp/hive/hive.log。进而确定根源就是counter的问题。最终问chatgpt确定了应当在xml配置文件就配置好max counter。
