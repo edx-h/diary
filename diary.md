@@ -923,3 +923,8 @@ gpu安装nsys
 250629：
 一次排查问题的典范。解决了hive max counter的问题。先自己试了一堆调优语句（通过cursor execute执行），发现好像不行。换成pyhive connection建立时configuration配置，还是没有生效。另一方面问chatgpt找到了日志路径：/tmp/hive/hive.log。进而确定根源就是counter的问题。最终问chatgpt确定了应当在xml配置文件就配置好max counter。
 增加完counter数目后，错误query数从75降到了55个。剩下的大头问题：broken pipe。unexpected exception。
+
+250630:
+进一步调优。初步测试，回归到只增加memory size。但是还是效果不太好。有的SQL就被卡住了。
+最终解决方案：
+要么提取SQL直接在PG上执行（preferred），要么搞2个容器。分别执行各自能执行的SQL。
