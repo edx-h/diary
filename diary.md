@@ -928,3 +928,11 @@ gpu安装nsys
 进一步调优。初步测试，回归到只增加memory size。但是还是效果不太好。有的SQL就被卡住了。
 最终解决方案：
 要么提取SQL直接在PG上执行（preferred），要么搞2个容器。分别执行各自能执行的SQL。
+
+250701:
+颇有收获。解决了之前发现的bigsubs已经被drop掉的仍然被推荐的问题（索引问题），并且把hvie rewritten sql集成到postgres执行（只是开发完了代码）。
+目前仍然未准备好的：
+rewriter: presto, doris, automv, calcite
+枚举器：测通autoview
+信息收集和推荐：autoview, yang 1997
+本周计划：给出一个全链路结果模板（要设计好指标）。整理出所有能做的实验。写好自动化运行的脚本。且不急于拓展大规模运行。
