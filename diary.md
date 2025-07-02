@@ -936,3 +936,6 @@ rewriter: presto, doris, automv, calcite
 枚举器：测通autoview
 信息收集和推荐：autoview, yang 1997
 本周计划：给出一个全链路结果模板（要设计好指标）。整理出所有能做的实验。写好自动化运行的脚本。且不急于拓展大规模运行。
+
+250702:
+初步走通了用nsys benchmark程序。还需要进一步学习如何看图。
