@@ -940,3 +940,9 @@ rewriter: presto, doris, automv, calcite
 250702:
 初步走通了用nsys benchmark程序。还需要进一步学习如何看图。
 mv: 整理好了metric框架。todo: 重要紧急那几个predicate统计；并行化改造，以支持后续快速massively running experiment
+
+250703：
+benchmark hive
+
+250704:
+开会*2。装mongo docker env
