@@ -946,3 +946,10 @@ benchmark hive
 
 250704:
 开会*2。装mongo docker env
+
+250705:
+干一天的家务（洗衣服、退货）。给大andy跑mv
+
+250706：
+初步分析a3 autograding；找到了一篇关于gpu profiling的宝藏研究论文。确定使用nvml和dcgm。
+
