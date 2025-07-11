@@ -953,3 +953,11 @@ benchmark hive
 250706：
 初步分析a3 autograding；找到了一篇关于gpu profiling的宝藏研究论文。确定使用nvml和dcgm。
 
+250707-08：
+好像是在做gpu并且研究作业
+
+250709：
+整理一天家务。所有行李都pack好了。
+
+250710:
+出题，答疑
