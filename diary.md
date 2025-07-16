@@ -963,3 +963,6 @@ benchmark hive
 出题，答疑
 
 250711-13: 一直倒腾A3
+
+250714-15:
+数据集，workload集：确认dsb, tpcds, stats能用（能生成query并且明确哪些不会用）。tpch qgen不太顺利，不管怎么变random seed数值全都是一样的，没区别。所以先放一放。
