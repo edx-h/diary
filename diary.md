@@ -972,3 +972,4 @@ ssb愣是找不到13个查询模板，不过不重要。
 算是彻底完成了gpu监控看板的搭建。中途踩了很多坑，不过很值得。
 端口转发：ssh -N -f -L 3000:localhost:3000 **-g** dis5。一定要在secb上执行。在自己的22.188机器执行就不行。
 prometheus+grafana全部通过docker来起。监测的指标由.csv控制。grafana如何展示由.json控制。dcgm也由docker部署。
+粒度的问题也解决了。就是grafana这个逼的锅。从15s调整到1s就行了。不需要加什么环境变量之类的。
