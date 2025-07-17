@@ -967,3 +967,8 @@ benchmark hive
 250714-15:
 数据集，workload集：确认dsb, tpcds, stats能用（能生成query并且明确哪些不会用）。tpch qgen找到了csdn救命恩人，能正常生成sql了。
 ssb愣是找不到13个查询模板，不过不重要。
+
+250716:
+算是彻底完成了gpu监控看板的搭建。中途踩了很多坑，不过很值得。
+端口转发：ssh -N -f -L 3000:localhost:3000 **-g** dis5。一定要在secb上执行。在自己的22.188机器执行就不行。
+prometheus+grafana全部通过docker来起。监测的指标由.csv控制。grafana如何展示由.json控制。dcgm也由docker部署。
