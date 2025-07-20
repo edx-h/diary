@@ -973,3 +973,12 @@ ssb愣是找不到13个查询模板，不过不重要。
 端口转发：ssh -N -f -L 3000:localhost:3000 **-g** dis5。一定要在secb上执行。在自己的22.188机器执行就不行。
 prometheus+grafana全部通过docker来起。监测的指标由.csv控制。grafana如何展示由.json控制。dcgm也由docker部署。
 粒度的问题也解决了。就是grafana这个逼的锅。从15s调整到1s就行了。不需要加什么环境变量之类的。
+
+250717：
+汇报工作。看起来还算满意。MV决策：先彻底完成recommender
+
+250718-19:
+学习capuchin的论文。学习GNN。
+
+250720：
+安装pytorch geometric
