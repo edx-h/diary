@@ -982,3 +982,5 @@ prometheus+grafana全部通过docker来起。监测的指标由.csv控制。graf
 
 250720：
 安装pytorch geometric
+多线程python安装
+读gnn paper。想实现
