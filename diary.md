@@ -984,3 +984,9 @@ prometheus+grafana全部通过docker来起。监测的指标由.csv控制。graf
 安装pytorch geometric
 多线程python安装
 读gnn paper。想实现
+
+250721:
+想出再试一次隐式转显式的方案。明天实践。
+初步用claude开启了gnn的实现。找到了queryformer设计LSTM transformer的代码仓库。但是为了快捷先采用普通的transformer做编码。
+
+250722:
