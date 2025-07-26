@@ -989,4 +989,9 @@ prometheus+grafana全部通过docker来起。监测的指标由.csv控制。graf
 想出再试一次隐式转显式的方案。明天实践。
 初步用claude开启了gnn的实现。找到了queryformer设计LSTM transformer的代码仓库。但是为了快捷先采用普通的transformer做编码。
 
-250722:
+250722-25:
+实现GNN特征编码部分，可能还有其他事情
+
+250725：
+写了并行执行的脚本（但是还没有正式投入使用）
+待完成train test分割以及最小测通样本的构建
