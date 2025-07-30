@@ -998,3 +998,14 @@ prometheus+grafana全部通过docker来起。监测的指标由.csv控制。graf
 
 250726:
 gnn写多进程批量测试是否能重写的程序
+
+250727:
+玩了一天
+
+250728：
+判作业
+
+250729：
+capuchin presentation ppt
+
+250730：
