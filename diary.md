@@ -1008,4 +1008,8 @@ gnn写多进程批量测试是否能重写的程序
 250729：
 capuchin presentation ppt
 
-250730：
+250730-250802：
+一直纠缠edge construction
+
+250803：
+多进程改造完成
