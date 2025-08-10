@@ -1019,3 +1019,6 @@ capuchin presentation ppt
 
 250808:
 开会同步gpu
+
+250809:
+改stage_summary代码，写data adapter。
