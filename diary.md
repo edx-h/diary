@@ -1022,3 +1022,6 @@ capuchin presentation ppt
 
 250809:
 改stage_summary代码，写data adapter。
+
+250810:
+基本把编码部分收尾了。一个大胆的想法：先不搞谓词编码，看看效果。
