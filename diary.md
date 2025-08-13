@@ -1025,3 +1025,13 @@ capuchin presentation ppt
 
 250810:
 基本把编码部分收尾了。一个大胆的想法：先不搞谓词编码，看看效果。
+
+250811:
+跑图模型，效果很差。怀疑是极端值和错误的scaling处理
+
+250812：
+claude帮助下优化scaling处理逻辑。基本确认模型是可用的。
+剩余任务：
+周二：train test split跑stage_summary数据。
+周三：支持在gnn阶段进行train test split（一定要兼容现有架构），构建【整数规划推荐最终collection】模块（这要做成一个宽泛的适配器，既要适用于gnn的推荐，又要适用于across评价recommender的情况）。
+周四：给出一版推荐结果，并计算延迟加速的数据。和其它方式作比较。
