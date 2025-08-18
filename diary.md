@@ -1035,3 +1035,16 @@ claude帮助下优化scaling处理逻辑。基本确认模型是可用的。
 周二：train test split跑stage_summary数据。
 周三：支持在gnn阶段进行train test split（一定要兼容现有架构），构建【整数规划推荐最终collection】模块（这要做成一个宽泛的适配器，既要适用于gnn的推荐，又要适用于across评价recommender的情况）。
 周四：给出一版推荐结果，并计算延迟加速的数据。和其它方式作比较。
+
+25813-15：
+基本跑通GNN。但是train_test_split过小情况下表现仍然不太好。需要后续调试。
+
+250816：
+监考
+
+250817:
+判A5作业
+
+250818：
+给tianzheng准备presentation。
+准备nvidia's proposal
