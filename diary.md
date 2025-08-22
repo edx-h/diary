@@ -1047,4 +1047,16 @@ claude帮助下优化scaling处理逻辑。基本确认模型是可用的。
 
 250818：
 给tianzheng准备presentation。
+
+250819：
+判卷子
+
+250820:
+调模型，搞转phd的邮件
+
+250821:
+搞dis5上的pytorch+pyg docker容器部署。
+调模型结束了。
+
 准备nvidia's proposal
+
