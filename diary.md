@@ -1067,3 +1067,4 @@ todo:
 2. 现在的模型选择必须改革。test析出test和val。
 3. 从rewriting开始的一系列评估全都只考虑测试集。这个可以在评估的时候再做筛选。
 4. 搭建evaluator。
+5. 系统清理代码：删除所有log artifacts，只保留path_info。全部采用fetch_all_run_id
