@@ -1123,3 +1123,5 @@ evaluation后续尾巴处理，存excel。$40买了一个超值的冰箱。等R5
 
 250906：
 研究推荐器。主要是泛化uniview
+follow slack教程制造推送机器人：https://docs.slack.dev/tools/python-slack-sdk/web
+https://docs.slack.dev/quickstart
