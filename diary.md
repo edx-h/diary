@@ -1126,3 +1126,10 @@ evaluation后续尾巴处理，存excel。$40买了一个超值的冰箱。等R5
 follow slack教程制造推送机器人：https://docs.slack.dev/tools/python-slack-sdk/web
 https://docs.slack.dev/quickstart
 大致明白uniview的修改方向了：主要是修改build_data函数的输入。明天必须把这个搞完！
+
+250907-08:
+搞uniview recommender的适配。截止目前已经打通了build_data和训练。还剩下推理。
+需要解决的问题：
+formalize
+获取真实统计信息
+不同budget下的推荐
