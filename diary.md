@@ -1133,3 +1133,8 @@ https://docs.slack.dev/quickstart
 formalize
 获取真实统计信息
 不同budget下的推荐
+
+250909:
+修改了一些calcite的bug。最终版本了。又一次头铁证明calcite没法隐式改显式。
+uniview的analyze plan都运行完了。
+明天，正式开始跑uniview和calcite重写。看到底能重写多少。
