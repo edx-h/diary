@@ -1138,3 +1138,9 @@ formalize
 修改了一些calcite的bug。最终版本了。又一次头铁证明calcite没法隐式改显式。
 uniview的analyze plan都运行完了。
 明天，正式开始跑uniview和calcite重写。看到底能重写多少。
+
+250910:
+踩了很多坑，基本上把uniview的dqn推荐搞定了。支持按照纯space budget来推荐。
+
+
+250911:
