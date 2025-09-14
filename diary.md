@@ -1144,6 +1144,7 @@ uniview的analyze plan都运行完了。
 
 250911-12:
 一直在搞uniview
+研究lotus论文的数据集。
 
 250913:
 基本搞定了uniview推荐和calcite重写
