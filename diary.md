@@ -1148,3 +1148,13 @@ uniview的analyze plan都运行完了。
 
 250913:
 基本搞定了uniview推荐和calcite重写
+
+250914：
+搞calcite
+
+250915：
+适配starrocks
+
+250916:
+大规模跑starrocks实验
+搞doris
