@@ -1157,4 +1157,22 @@ uniview的analyze plan都运行完了。
 
 250916:
 大规模跑starrocks实验
+
+250917：
+吃饭，韩餐。他和欣怡谈了造假的问题。主要还是在排查starrocks的bug。
+
+250918:
+1. 私下研究recommender喂数据不fair的问题。目前确认uniview和gnn都是接受能重写且有延迟（几乎相当于一定加速）的pair。如果要是bigsubs也对齐，开了一个分支，发现bigsubs效果会变很差，更重要是各种budget失灵。因为几乎所有pair全都不在里面。目前先按原来的逻辑跑，等到时候问到了也可以狡辩这是我们的新特性。
+2. extend workload。比较顺利。自己写的程序还是比较稳健的。
+3. starrocks又排查出一个bug。explain timeout没加上。后来把这个get explain语句抽象出来一个函数，starrocks自动设3s
+4. 一些优化：rewriting阶段不再跑训练/验证查询。反正之后也用不到。
+5. AWS账号开通。
+
+截止本周末：
+1. 把workload全都explicit化
+2. 开始跑explicit
+3. doris, presto
+4. automv
+
+5. 
 搞doris
