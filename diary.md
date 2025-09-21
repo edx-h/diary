@@ -1168,11 +1168,20 @@ uniview的analyze plan都运行完了。
 4. 一些优化：rewriting阶段不再跑训练/验证查询。反正之后也用不到。
 5. AWS账号开通。
 
-截止本周末：
-1. 把workload全都explicit化
-2. 开始跑explicit
-3. doris, presto
-4. automv
+250919:
+开会，配dis4机器的环境（主要是联通网络）；与此同时mv跑starrocks结果。
 
-5. 
+250920：
+1. CEB explicit化完成，explicit进展算顺利。但是问题在于预估整个workflow跑下来要花费4个小时。商量一下，看能不能取top 1000条耗时最长的数据。
+2. starrocks的结果跑出来了，发现只要不是autoview的enumerator，基本重写不了。说明starrocks很可能重写不了**不带**谓词的查询？
+
+1. 另一个IMDB JOB, DSB explicit化
+2. explicit后的数据枚举看情况
+3. 研究复杂查询（带有子查询的）的查询的explicit化
+4. 跑doris, presto
+5. automv
+6. 云上测试latency是否和本地差不多。
+7. 验证starrocks的问题。
+
+8. 
 搞doris
