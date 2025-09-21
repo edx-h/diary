@@ -1176,7 +1176,7 @@ uniview的analyze plan都运行完了。
 2. starrocks的结果跑出来了，发现只要不是autoview的enumerator，基本重写不了。说明starrocks很可能重写不了**不带**谓词的查询？
 
 1. 另一个IMDB JOB, DSB explicit化
-2. explicit后的数据枚举看情况
+2. explicit后的数据枚举看情况。尤其是uniview
 3. 研究复杂查询（带有子查询的）的查询的explicit化
 4. 跑doris, presto
 5. automv
