@@ -1182,6 +1182,6 @@ uniview的analyze plan都运行完了。
 5. automv
 6. 云上测试latency是否和本地差不多。
 7. 验证starrocks的问题。
-
+8. 查看现有的benchamark paper以及mv paper。确认是否可以选top 1000 query and 是否根本没有汇报时间。
 8. 
 搞doris
