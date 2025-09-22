@@ -1177,15 +1177,20 @@ uniview的analyze plan都运行完了。
 
 
 1. 另一个IMDB JOB, TPCH explicit化--250921
-2. explicit后的数据枚举看情况。尤其是uniview--250921
+2. explicit后的数据枚举看情况。尤其是uniview
 3. 研究复杂查询（带有子查询的）的查询的explicit化--250921
 4. 跑doris, presto
-5. automv
-6. 云上测试latency是否和本地差不多。
-7. 验证starrocks的问题。
-8. 查看现有的benchamark paper以及mv paper。确认是否可以选top 1000 query and 是否根本没有汇报时间。
+5. 跑calcite
+6. automv
+7. 云上测试latency是否和本地差不多。
+8. 验证starrocks的问题。
+9. 查看现有的benchamark paper以及mv paper。确认是否可以选top 1000 query and 是否根本没有汇报时间。
 
 250921:
 explicit化。已经确认了：scale和stats 100%能用！
+
+250922:
+查看枚举情况，尤其是uniview，能否避开interaction id。
+上云跑。
 
 搞doris
