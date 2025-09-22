@@ -1175,6 +1175,7 @@ uniview的analyze plan都运行完了。
 1. CEB explicit化完成，explicit进展算顺利。但是问题在于预估整个workflow跑下来要花费4个小时。商量一下，看能不能取top 1000条耗时最长的数据。
 2. starrocks的结果跑出来了，发现只要不是autoview的enumerator，基本重写不了。说明starrocks很可能重写不了**不带**谓词的查询？
 
+
 1. 另一个IMDB JOB, TPCH explicit化--250921
 2. explicit后的数据枚举看情况。尤其是uniview--250921
 3. 研究复杂查询（带有子查询的）的查询的explicit化--250921
@@ -1184,5 +1185,7 @@ uniview的analyze plan都运行完了。
 7. 验证starrocks的问题。
 8. 查看现有的benchamark paper以及mv paper。确认是否可以选top 1000 query and 是否根本没有汇报时间。
 
+250921:
+explicit化。已经确认了：scale和stats 100%能用！
 
 搞doris
