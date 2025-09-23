@@ -1197,3 +1197,5 @@ explicit化。已经确认了：scale和stats 100%能用！
 由于Athena的TPCH没开源，要么换成TPC-DS，要么可以考虑自己生成1000条TPC-H query（参考athena的模板），或者找其他paper的TPC-H。
 注册完成：imdb_scale, stats。
 要测试最复杂的SQL是否能被yang1997和bigsubs枚举！
+修改bigsubs生成的SQL
+限定一个抽样cap
