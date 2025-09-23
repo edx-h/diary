@@ -1195,5 +1195,4 @@ explicit化。已经确认了：scale和stats 100%能用！
 对于CEB，可以随机3000条选1000条
 先从128GB开始看情况。
 由于Athena的TPCH没开源，要么换成TPC-DS，要么可以考虑自己生成1000条TPC-H query（参考athena的模板），或者找其他paper的TPC-H。
-
-搞doris
+注册完成：imdb_scale, stats。
