@@ -1203,3 +1203,7 @@ explicit化。已经确认了：scale和stats 100%能用！
 250923:
 上云。配置比较顺利。云上速度确实快，大概省一半时间。
 急迫：GPU环境配置。rewriting, rewriting_execution要二合一。云上多台机器跑！
+剩余各种workload的适配！比如DDL之类的。
+本日：
+1-34.229.113.192：scale workload, enumerator: yang1997的stage summary
+2-：scale workload, enumerator: bigsubs的stage_summary
