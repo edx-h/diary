@@ -1190,7 +1190,7 @@ uniview的analyze plan都运行完了。
 explicit化。已经确认了：scale和stats 100%能用！
 
 250922:
-查看枚举情况，尤其是uniview，能否避开interaction id。
+查看枚举情况，尤其是uniview，能否避开interaction id。----确认了。可以！
 简单总结：
 对于CEB，可以随机3000条选1000条
 先从128GB开始看情况。
@@ -1199,3 +1199,7 @@ explicit化。已经确认了：scale和stats 100%能用！
 要测试最复杂的SQL是否能被yang1997和bigsubs枚举！
 修改bigsubs生成的SQL
 限定一个抽样cap
+
+250923:
+上云。配置比较顺利。云上速度确实快，大概省一半时间。
+急迫：GPU环境配置。rewriting, rewriting_execution要二合一。云上多台机器跑！
