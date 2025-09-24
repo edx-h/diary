@@ -1206,4 +1206,11 @@ explicit化。已经确认了：scale和stats 100%能用！
 剩余各种workload的适配！比如DDL之类的。
 本日：
 1-34.229.113.192：scale workload, enumerator: yang1997的stage summary
-2-：scale workload, enumerator: bigsubs的stage_summary
+配置gpu环境的过程真是脑积屎了。一直端口转发一直转发的是dis5，而非dis4。
+
+250924：
+全面跑起scale。力争周六前完结scale。
+gpu环境配置完成
+测试pyg无GPU环境下能否运行
+rewriting rewriting latency合并今天必须完成
+其他数据库DDL，doris, presto.......
