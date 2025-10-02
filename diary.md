@@ -1239,3 +1239,6 @@ pairs: 所有enumerator，都用自己的customised potential pair former（忽�
 251001:
 测通starrocks数据导入和所有workload。
 最近一两天：测通Doris, calcite, hive和presto。
+
+251002:
+打通hive和doris。现在应当开始全速跑了。
