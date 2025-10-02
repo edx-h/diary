@@ -1232,3 +1232,10 @@ rewriting rewriting latency合并今天必须完成
 original latency: 5改3。超时时间300s，但是不drop。
 create mv: <=4 join；语法错误；明显没有意义；中间临时文件不能超过2倍数据库大小；按estimated rows去除75%分位及其以上的mv。注意，没有应用只参考1个original query的逻辑。因为都改成自己的customised之后，不可能有这样的数据。
 pairs: 所有enumerator，都用自己的customised potential pair former（忽略bigsubs的那个判断标准）;并对所有workload的测试集全都抽样50%;去除达到超时时间的query作为训练样本。
+
+250930:
+没干啥。
+
+251001:
+测通starrocks数据导入和所有workload。
+最近一两天：测通Doris, calcite, hive和presto。
