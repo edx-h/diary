@@ -1250,4 +1250,4 @@ hive导入数据太慢了。要有心理准备。
 autoview到底支不支持其他workload
 stage_summary：裁剪
 information collection: gnn编码环节，postgres stats schema大小写的问题
-
+information and recommender: uniview能不能被使用。
