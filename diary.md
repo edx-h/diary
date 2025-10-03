@@ -1251,4 +1251,6 @@ autoview到底支不支持其他workload
 stage_summary：裁剪
 information collection: gnn编码环节，postgres stats schema大小写的问题
 information and recommender: uniview能不能被使用。
-已经证实：uniview是没有办法枚举其他workload的。所以：original latency可以省时（不必再等待analyzed query plan!）
+已经证实：
+1. uniview是没有办法枚举其他workload的。所以：original latency可以省时（不必再等待analyzed query plan!）
+2. 经过sqlglot transpile后的查询，所有引擎都是可以执行的！
