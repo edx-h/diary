@@ -1243,3 +1243,11 @@ pairs: 所有enumerator，都用自己的customised potential pair former（忽�
 251002:
 打通hive和doris。现在应当开始全速跑了。
 hive导入数据太慢了。要有心理准备。
+验证了enumerator环节，对于新workload stats和tpcds，都完全没问题。只不过是数量太多了。需要裁剪。
+
+剩余的事项：
+各个环节打通新workload，尤其是：
+autoview到底支不支持其他workload
+stage_summary：裁剪
+information collection: gnn编码环节，postgres stats schema大小写的问题
+
