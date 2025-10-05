@@ -1254,3 +1254,13 @@ information and recommender: uniview能不能被使用。
 已经证实：
 1. uniview是没有办法枚举其他workload的。所以：original latency可以省时（不必再等待analyzed query plan!）
 2. 经过sqlglot transpile后的查询，所有引擎都是可以执行的！
+
+251003:
+stage_summary做各种适配
+
+251004：
+发现一个问题：plan_for_autoview还是需要跑。因为uniview编码是需要analyzed plan的！
+规划：
+IMDB scale跑最后一个stage_summary（带analyzed）
+小样本跑tpcds, stats的analyzed plan，并实测uniview是否能处理。
+如果可以，临时跑补丁程序，获取原始SQL，重写后SQL，mv的analyzed plan和获取analyzed plan的延迟。
