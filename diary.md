@@ -1267,5 +1267,5 @@ IMDB scale跑最后一个stage_summary（带analyzed）
 明日：
 剩余部分全升级完毕
 补丁程序：
-stage_summary阶段lockexception重新拉起
-analyze plan弥补
+stage_summary阶段lockexception重新拉起（目前看只有imdb scale有一个stage summary需要重跑后半段）
+analyze plan弥补（tpcds, stats现在正在运行的）
