@@ -1264,3 +1264,8 @@ stage_summary做各种适配
 IMDB scale跑最后一个stage_summary（带analyzed）
 小样本跑tpcds, stats的analyzed plan，并实测uniview是否能处理。
 如果可以，临时跑补丁程序，获取原始SQL，重写后SQL，mv的analyzed plan和获取analyzed plan的延迟。
+明日：
+剩余部分全升级完毕
+补丁程序：
+stage_summary阶段lockexception重新拉起
+analyze plan弥补
