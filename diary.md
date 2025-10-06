@@ -1269,3 +1269,9 @@ IMDB scale跑最后一个stage_summary（带analyzed）
 补丁程序：
 stage_summary阶段lockexception重新拉起（目前看只有imdb scale有一个stage summary需要重跑后半段）
 analyze plan弥补（tpcds, stats现在正在运行的）
+
+251005：
+确认uniview可以被应用到其他workload
+现在进度：
+TPC-DS, STATS：跑另外一个enumerator（带analyze plan）、
+IMDB-JOB, IMDB-SCALE：准备推理。
