@@ -1275,3 +1275,6 @@ analyze plan弥补（tpcds, stats现在正在运行的）
 现在进度：
 TPC-DS, STATS：跑另外一个enumerator（带analyze plan）、
 IMDB-JOB, IMDB-SCALE：准备推理。刚接到指示，先不考虑数据库倍数，就先按照之前固定的区间来做就行。
+
+251006-09：
+陆续跑实验
