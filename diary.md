@@ -1284,3 +1284,8 @@ IMDB JOB: 全部完成
 IMDB Scale: 正在跑yang1997补完后半段之后，yang1997的bigsubs和gnn。还剩：所有enumerator的uniview。预计白天跑完全部剩下的。
 TPCDS：正在跑一个enumerator的uniview。如果成功，要补另一个enumerator的analyze plan，然后再跑uniview
 STATS: 正在跑两个所有enumerator的bigsubs。
+
+250112白天：
+Scale: 正在跑uniview推荐。
+TPCDS：跑完另一个enumerator的analyze plan了。合并，并且跑uniview
+STATS：补original analyzed query plan。等补完了之后先跑uniview。排查清tpcds gnn表现不佳的原因之后再跑gnn
