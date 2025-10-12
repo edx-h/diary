@@ -1278,3 +1278,9 @@ IMDB-JOB, IMDB-SCALE：准备推理。刚接到指示，先不考虑数据库倍
 
 251006-09：
 陆续跑实验
+
+250112凌晨：
+IMDB JOB: 全部完成
+IMDB Scale: 正在跑yang1997补完后半段之后，yang1997的bigsubs和gnn。还剩：所有enumerator的uniview。预计白天跑完全部剩下的。
+TPCDS：正在跑一个enumerator的uniview。如果成功，要补另一个enumerator的analyze plan，然后再跑uniview
+STATS: 正在跑两个所有enumerator的bigsubs。
