@@ -1294,4 +1294,4 @@ STATS：补original analyzed query plan。等补完了之后先跑uniview。排�
 所有和hive相关的实验全部跑完。
 接下来剩下的事全部都是和rewriter有关的。
 calcite, starrocks, doris, redshift automv。
-本日：calcite。
+本日：calcite。[]
