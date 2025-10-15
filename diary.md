@@ -1302,6 +1302,9 @@ calcite, starrocks, doris, redshift automv。
 1016（四）: doris
 1017-18（五）：automv
 
+250115:
+calcite修补完成
+跑calcite，跑starrocks
 251014：
 calcite rewriting结果跑完了。现在需要系统性解决无法执行重写后查询的问题。
 解决方案：
