@@ -1311,3 +1311,7 @@ calcite rewriting结果跑完了。现在需要系统性解决无法执行重写
 根据rewriting id，遍历目录抽出所有重写的重写SQL，mv sql对。放到postgres去执行（without data!）。收集错误信息！列：mv_index, mv_sql, rewritten_sql, query plan, error_msg
 
 case study: 分模板统计，问题分层（dialect层面，判断是否能重写方面）
+
+251018:
+基本上把所有非redshift的实验都给完结了。
+尽全力本周完成redshift。
