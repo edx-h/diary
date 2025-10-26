@@ -1321,3 +1321,8 @@ case study: 分模板统计，问题分层（dialect层面，判断是否能重�
 
 251022:
 评估runtime结果。
+
+2510-26:
+日程表：
+26日：
+automv, maxcompute
