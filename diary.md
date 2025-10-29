@@ -1329,3 +1329,8 @@ automv, maxcompute
 
 251028:
 准备放弃redshift automv了。celerdb的性能非常好，时间上非常可预测！
+一个论点：celerdata的推荐mv肯定是融合了信息收集、推荐等信息的。所以他并不单纯是一个枚举器。
+还剩三部分：
+1. celerdata automv（必须最先一步完成）
+2. celerdata as rewriter, accept existing other combs
+3. celerdata recommended sql applied to other rewriters and platforms (3依赖1)。
