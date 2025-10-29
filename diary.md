@@ -1326,3 +1326,6 @@ case study: 分模板统计，问题分层（dialect层面，判断是否能重�
 日程表：
 26日：
 automv, maxcompute
+
+251028:
+准备放弃redshift automv了。celerdb的性能非常好，时间上非常可预测！
