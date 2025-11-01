@@ -1334,3 +1334,11 @@ automv, maxcompute
 1. celerdata automv（必须最先一步完成）
 2. celerdata as rewriter, accept existing other combs
 3. celerdata recommended sql applied to other rewriters and platforms (3依赖1)。
+
+251031:
+已经弄完了celerdata recommendation。发现stats, scale推荐的还不少。需要做一些过滤。但是一定要公平。
+
+分天schedule:
+得到celerdata全流程数据（最晚本周末完成）
+cross-execution
+
