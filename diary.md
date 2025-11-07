@@ -1347,4 +1347,6 @@ cross-execution
 celerdata:
 所有hive rewriter transplant到celerdata的rewriting execution全部跑完（还没跑evaluation）
 celerdata 原始benchmark跑完
-celerdata全托管跑完了rewriting，卡在了rewriting_execution，因为original execution没跑完。现在可以跑了。
+celerdata全托管跑完了rewriting，卡在了rewriting_execution，因为original execution没跑完。现在可以跑了。----现在一套celerdata正在跑
+第二套机器正在跑celerdata作为纯rewriter处理其他combination的结果。
+
