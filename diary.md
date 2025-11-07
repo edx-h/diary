@@ -1342,3 +1342,9 @@ automv, maxcompute
 得到celerdata全流程数据（最晚本周末完成）
 cross-execution
 
+251106:
+数据合成搞完了
+celerdata:
+所有hive rewriter transplant到celerdata的rewriting execution全部跑完（还没跑evaluation）
+celerdata 原始benchmark跑完
+celerdata全托管跑完了rewriting，卡在了rewriting_execution，因为original execution没跑完。现在可以跑了。
