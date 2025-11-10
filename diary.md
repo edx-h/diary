@@ -1350,3 +1350,6 @@ celerdata 原始benchmark跑完
 celerdata全托管跑完了rewriting，卡在了rewriting_execution，因为original execution没跑完。现在可以跑了。----现在一套celerdata正在跑
 第二套机器正在跑celerdata作为纯rewriter处理其他combination的结果。
 
+251109:
+搞定了celerdata as mv recommender hive失败的问题：增加了几条调优语句+关闭mp
+剩余工作：主要都是要放在ec2上执行的实验
