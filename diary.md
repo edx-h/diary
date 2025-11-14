@@ -1353,3 +1353,15 @@ celerdata全托管跑完了rewriting，卡在了rewriting_execution，因为orig
 251109:
 搞定了celerdata as mv recommender hive失败的问题：增加了几条调优语句+关闭mp
 剩余工作：主要都是要放在ec2上执行的实验
+
+
+251113:
+找到了c++, golang, pg 100 mistakes丛书。后续学习。
+mv规划：
+1. 先在postgres和redshift上跑用celerdata作为rewriter的结果。
+2. 与此同时，改代码，解决celerdata推荐的mv耗时过长的问题。
+原则：celerdata的sql是绝对不能修改的，数据量也是决不能修改的；另一方面，又不能明说以耗时超过5 min超时作为标准，只能说他们的体积太大。没有意义。
+方案一：执行5 min，统计已经占据的临时文件大小。说明很大很大----必须做！。
+   - 如果觉得还是不能说明问题，再统计一批SQL，统计耗时和size的关系。定性分析5min 占据很多的空间最终的得到的size大小绝不可能很小。
+方案二：让步。就算都能加速至0，统计加速比的上界。
+
