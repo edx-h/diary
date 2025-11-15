@@ -1375,3 +1375,8 @@ mv规划：
 
 实验：
 celerdata也画曲线
+
+最新进展：对于TPCDS，scale这些workload，postgres集群会在创建物化视图期间被shutdown。说明还要做进一步措施。
+影响范围：基本没有影响范围。不需要重跑任何实验。或者仅需要重跑全托管的实验。
+把stage_summary用上的那一套东西：去除前75%，过滤逻辑应用上。
+步骤：在现在的prune脚本增添以上逻辑。然后mlflow utils celerdata的recommendation指向stage_summary。重新做推荐。
