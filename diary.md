@@ -1380,3 +1380,7 @@ celerdata也画曲线
 影响范围：基本没有影响范围。不需要重跑任何实验。或者仅需要重跑全托管的实验。
 把stage_summary用上的那一套东西：去除前75%，过滤逻辑应用上。
 步骤：在现在的prune脚本增添以上逻辑。然后mlflow utils celerdata的recommendation指向stage_summary。重新做推荐。
+
+251115:
+没有想到二八定律这么好用。把cost top 25%的给去掉之后，stage_summary运行地非常快。
+明日乘胜追击，必须把剩余的实验全部做完。下周开始密集写paper。
