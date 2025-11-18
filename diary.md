@@ -1393,3 +1393,6 @@ celerdata也画曲线
 最重要的是想好结构（为什么要导出数据），结构决定导出什么样的数据，以及如何导出。
 想法：
 只关注数据层。画图交给chatgpt。
+计划：
+18号：修整论文，代码方面：完成celerdata手动分budget统计，注册mlflow，画出一些图像
+截止20号，完成each component的数据统计和case study的东西。
