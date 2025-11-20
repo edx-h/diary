@@ -1396,3 +1396,5 @@ celerdata也画曲线
 计划：
 18号：修整论文，代码方面：完成celerdata手动分budget统计，注册mlflow，画出一些图像
 截止20号，完成each component的数据统计和case study的东西。
+
+19: 发现一个问题。还缺少clr作为recommender，在其他rewriter, execution engine上运行的结果。所以，要把这些实验给跑完。幸运的是这里没有budget的事。
