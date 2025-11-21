@@ -1398,3 +1398,6 @@ celerdata也画曲线
 截止20号，完成each component的数据统计和case study的东西。
 
 19: 发现一个问题。还缺少clr作为recommender，在其他rewriter, execution engine上运行的结果。所以，要把这些实验给跑完。幸运的是这里没有budget的事。
+
+251120:
+今天早起了。搭好了框架。完成了基础可视化。准备明日至少把第一部分给完结。
