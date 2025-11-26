@@ -1404,3 +1404,7 @@ celerdata也画曲线
 
 251122:
 明确一个新的点：rewriting阶段的语法错误，也作为inscalability
+
+251125:
+透过result equivalence校对发现一个重大bug: doris引擎，由于创建mv之后没有等数据确实物化，导致重写比率和重写后的查询结果一半都不对。必须要重新跑doris的实验！！！
+步骤：先跑imdb_job的doris rewriter，看效果是不是有提升。
