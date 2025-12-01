@@ -1420,3 +1420,7 @@ celerdata也画曲线
 日程表：
 251201-03：写literature review
 整理所有table：截止至7号。
+
+251201:
+已经确定好下一篇文章的思路了：
+就抄r-bot的思路。RAG。DBSP等各paper的那一通规则+calcite+microsoft数篇paper（含bigsubs），再加上你的集群（如果涉及到对话）。
