@@ -1415,3 +1415,8 @@ celerdata也画曲线
 251129:
 基本完成了uniview的文献综述。
 剩余的实验：autoview recommender扩展其他rewriter。calcite放到celerdata
+
+251130:
+日程表：
+251201-03：写literature review
+整理所有table：截止至7号。
