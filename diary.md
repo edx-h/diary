@@ -1426,3 +1426,4 @@ celerdata也画曲线
 就抄r-bot的思路。RAG。DBSP等各paper的那一通规则+calcite+microsoft数篇paper（含bigsubs），再加上你的集群（如果涉及到对话）。
 1. 基本搞定了autoview recommender的实验。还剩starrocks和rs在后台跑。
 2. literature review基本明确了enumeration的逻辑。明日细化！并开始rewriting。
+在recommendation方面，hawc（看dqm的描述），MVPP，bigsubs可以放在一块说，基本都是traditional cost based。从原始SQL的cost中直接减去mv的cost。
