@@ -1427,3 +1427,9 @@ celerdata也画曲线
 1. 基本搞定了autoview recommender的实验。还剩starrocks和rs在后台跑。
 2. literature review基本明确了enumeration的逻辑。明日细化！并开始rewriting。
 在recommendation方面，hawc（看dqm的描述），MVPP，bigsubs可以放在一块说，基本都是traditional cost based。从原始SQL的cost中直接减去mv的cost。
+
+251204:
+日程表：
+发现必须要重做的实验：所有用bigsubs作为推荐器的实验。具体来讲，query latency用真实的，mv size用估计的。
+4号：把代码修改好。预计本周末能把实验跑完。
+与此同时，写论文。
