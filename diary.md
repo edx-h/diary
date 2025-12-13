@@ -1440,3 +1440,8 @@ celerdata也画曲线
 
 251207:
 非常重要。今天开始（AWS EC2机器上是12月8号），开始重新检讨bigsubs推荐的问题。需要考察校正到正确的throughput后的结果怎么样。
+
+251212:
+acceleration curve有了雏形。
+日程：
+13号必须把所有涉及enumerator的统计给搞完。
