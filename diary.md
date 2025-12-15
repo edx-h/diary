@@ -1445,3 +1445,6 @@ celerdata也画曲线
 acceleration curve有了雏形。
 日程：
 13号必须把所有涉及enumerator的统计给搞完。
+
+251214:
+发现了一个问题：yang1997枚举阶段记录的关联sql个数根本不准。因此需要用stage_summary阶段总结的能重写的pair来做关联的sql统计。
