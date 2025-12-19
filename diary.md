@@ -1448,3 +1448,17 @@ acceleration curve有了雏形。
 
 251214:
 发现了一个问题：yang1997枚举阶段记录的关联sql个数根本不准。因此需要用stage_summary阶段总结的能重写的pair来做关联的sql统计。
+
+251218:
+晚11点开会，记录enumerator部分的metrics。align好了一点：coverage都用train / val的hive重写结果。
+根据overleaf上写的enumerator相关的metrics，做如下规划：
+1&2&4&5.1形成一张表
+5.2放一个矩阵。
+6.1 size考虑画个散点图
+
+7最好放在专门讲time overhead的section里面。正如自己整理的那样。
+为了实现enumerator，还有以下依赖项：
+1. 全改测试集。（简单）
+2. 补充overlap代码（简单）
+3. 描述性统计
+4. 补充time-saving和accelerated query count（）
