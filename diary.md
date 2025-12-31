@@ -1462,3 +1462,6 @@ acceleration curve有了雏形。
 2. 补充overlap代码（简单）
 3. 描述性统计
 4. 补充time-saving和accelerated query count（）
+
+251231:
+最近辛苦了，一直在赶paper。发现一个大问题：e2e latency的计算，对于开启了mp功能的benchmark是有问题的！是累计求和的
