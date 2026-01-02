@@ -1464,4 +1464,7 @@ acceleration curve有了雏形。
 4. 补充time-saving和accelerated query count（）
 
 251231:
-最近辛苦了，一直在赶paper。发现一个大问题：e2e latency的计算，对于开启了mp功能的benchmark是有问题的！是累计求和的
+最近辛苦了，一直在赶paper。发现一个大问题：e2e latency的计算，对于开启了mp功能的benchmark是有问题的！是累计求和的。所以正确地除以了20.
+
+260101:
+写累计分布的正文。
