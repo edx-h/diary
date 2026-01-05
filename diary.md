@@ -1472,3 +1472,6 @@ acceleration curve有了雏形。
 260103：
 新发现starrocks也记载了无法重写的原因。看起来是starrocks很多无法重写的原因是no fk constraint。即需要自己找到fk, pk关系，然后手动额外添加到create materialized view语句。如果现在要改的话会耗费很长时间。先不管这件事了。就先以doris为例说明问题就可以了。
 所以1月3号跑了一个starrocks在stats的实验。如果发现多了一个实验，可以把这个给删掉。
+
+250104:
+tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性。因为发现其他很多cd1, cd2的原始sql，同样能被hive给改写。
