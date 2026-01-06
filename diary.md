@@ -1476,3 +1476,9 @@ acceleration curve有了雏形。
 250104:
 tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性。因为发现其他很多cd1, cd2的原始sql，同样能被hive给改写。
 终于发现了doris写不好的端倪：可以分两类。不支持灵活join，不支持谓词过滤。拿120和103等query做比较。搞出一份统计数据。
+
+250105:
+基本把rewriter部分给写完了。
+日程表：
+1月6日完成rewriter整理归纳大表
+1月7日uniview部分解释清楚
