@@ -1484,9 +1484,13 @@ tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性�
 1月7日uniview部分解释清楚
 
 250107:
+一：
 1. 开了会：
-消除子表，全都整理成一张表
+
+二：
+1. 消除子表，全都整理成一张表
    recommender，消除掉一列。直接算accelerated / slected的比值。
    rewriter，消除掉两位小数，显示数字，加粗体的标准改成每行加粗。
-最重要的是：系统性统计rewritability，用线性回归统计各个因素的显著性。识别出哪些rewriter对哪些因素敏感。
-rewriter改结论，hive比redshift要好。
+2. **最重要的事是：**系统性统计rewritability，用线性回归统计各个因素的显著性。识别出哪些rewriter对哪些因素敏感。
+3. rewriter改结论，hive比redshift要好。
+4. 扩展rewriter，starrocks的红绿图扩展成rewriter。加速比和rewrite比。
