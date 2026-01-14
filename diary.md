@@ -1494,3 +1494,8 @@ tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性�
 2. **最重要的事是：**系统性统计rewritability，用线性回归统计各个因素的显著性。识别出哪些rewriter对哪些因素敏感。
 3. rewriter改结论，hive比redshift要好。
 4. 扩展rewriter，starrocks的红绿图扩展成rewriter。加速比和rewrite比。
+
+250113:
+确定了deep learning project的日程：
+本日，确定topic: meme captioning。image-text to text。
+找到了相关的资源（vit+transformer的模型架构和训练流程代码）。也找到了数据源。接下来剩下的事情主要就是适配了。
