@@ -1499,3 +1499,7 @@ tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性�
 确定了deep learning project的日程：
 本日，确定topic: meme captioning。image-text to text。
 找到了相关的资源（vit+transformer的模型架构和训练流程代码）。也找到了数据源。接下来剩下的事情主要就是适配了。
+
+250114:
+画了swarm+box plot，效果不是很好。因为分布太极端/偏了，导致散点很密集，根本分辨不出数量。这也导致box plot非常扁。
+要么纯表格，要么现在的swarm+表格。barplot就算把没加速的也都加进去使得横轴一样，效果应该还是不会太好。
