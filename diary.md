@@ -1505,6 +1505,6 @@ tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性�
 要么纯表格，要么现在的swarm+表格。barplot就算把没加速的也都加进去使得横轴一样，效果应该还是不会太好。
 
 250120:
-把系统架构流程大图画好了！
+终于把心心念念的系统架构流程大图画好了！
 剩余schedule:
-把定义、指标Notation、example都给梳理清楚。
+把question，定义、指标Notation、example都给梳理清楚。
