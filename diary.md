@@ -1508,3 +1508,7 @@ tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性�
 终于把心心念念的系统架构流程大图画好了！
 剩余schedule:
 把question，定义、指标Notation、example都给梳理清楚。
+
+260121:
+基本算是把introduction的一半写完了。
+明天把introduction剩下的一半写完。
