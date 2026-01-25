@@ -1512,3 +1512,6 @@ tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性�
 260121:
 基本算是把introduction的一半写完了。
 明天把introduction剩下的一半写完。
+
+260124:
+enumerator思路基本清楚。hawc必须改名。
