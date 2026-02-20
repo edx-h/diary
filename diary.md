@@ -1515,3 +1515,10 @@ tpcds上10个doris表现好，hive表现不好的例子根本不具有代表性�
 
 260124:
 enumerator思路基本清楚。hawc必须改名。
+
+260219:
+近期日程：
+anonymous已经被查看了。说明审稿人已经开始工作了。
+完成整理github starred repo的工作。基本上所有方向都覆盖了。
+通过DL作业基本学习了torch。
+本周Reading week必须把fine-tuning给结束。
