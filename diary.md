@@ -1522,3 +1522,6 @@ anonymous已经被查看了。说明审稿人已经开始工作了。
 完成整理github starred repo的工作。基本上所有方向都覆盖了。
 通过DL作业基本学习了torch。
 本周Reading week必须把fine-tuning给结束。
+
+260223:
+通过https://github.com/dvgodoy/FineTuningLLMs熟悉了fine-tune的流程。目前看起来还是比较简单的。周二-周四集中精力，交差参数微调后的效果。证明自己做了事情了。
