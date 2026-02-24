@@ -1525,3 +1525,6 @@ anonymous已经被查看了。说明审稿人已经开始工作了。
 
 260223:
 通过https://github.com/dvgodoy/FineTuningLLMs熟悉了fine-tune的流程。目前看起来还是比较简单的。周二-周四集中精力，交差参数微调后的效果。证明自己做了事情了。
+
+260224:
+突然发现一个问题：大模型估计需要接收的输入应当是sql，而目前只有hive, calcite能够返回显式的重写后的sql。也就是说，如果不逆向从plan构造rewritten sql的话，目前只能先尝试使用hive的结果喂给大模型。
