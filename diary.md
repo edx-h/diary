@@ -1528,3 +1528,9 @@ anonymous已经被查看了。说明审稿人已经开始工作了。
 
 260224:
 突然发现一个问题：大模型估计需要接收的输入应当是sql，而目前只有hive, calcite能够返回显式的重写后的sql。也就是说，如果不逆向从plan构造rewritten sql的话，目前只能先尝试使用hive的结果喂给大模型。
+
+260228:
+启动gpu kernel编程
+尝试duckdb postgres extension开发
+学习微信推文提供的transformer教程
+llava项目。把几个指标给设计好。确认能否host到gpu上。
