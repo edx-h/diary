@@ -1532,5 +1532,6 @@ anonymous已经被查看了。说明审稿人已经开始工作了。
 260228:
 启动gpu kernel编程
 尝试duckdb postgres extension开发
-学习微信推文提供的transformer教程
-llava项目。把几个指标给设计好。确认能否host到gpu上。
+[√] 学习微信推文提供的transformer教程
+[√] llava项目。把几个指标给设计好。确认能否host到gpu上。
+   基本上确认跑模型没问题。之后需要：设计评价指标，扩展到其他模型。
