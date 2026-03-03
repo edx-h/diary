@@ -1535,3 +1535,16 @@ anonymous已经被查看了。说明审稿人已经开始工作了。
 [√] 学习微信推文提供的transformer教程
 [√] llava项目。把几个指标给设计好。确认能否host到gpu上。
    基本上确认跑模型没问题。之后需要：设计评价指标，扩展到其他模型。
+
+260302:
+本周事项：
+GPU:
+   [] 针对非vllm架构部署方式（例如裸pytorch），开发monitor。
+   [] 封装metric为prometheus
+   [] 编造合适的workload
+   [] 
+qr:
+   [] 确认gpt-api key可以用。
+   [] 抽取hive不能重写的查询，请求gpt，看能否被重写。
+      [] 重写结果是否和其他rewriter重写结果相同
+      [] 是否加速
