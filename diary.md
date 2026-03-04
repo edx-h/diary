@@ -1542,9 +1542,15 @@ GPU:
    [] 针对非vllm架构部署方式（例如裸pytorch），开发monitor。
    [] 封装metric为prometheus
    [] 编造合适的workload
-   [] 
+   [√] 跑通athena 260303
 qr:
    [] 确认gpt-api key可以用。
    [] 抽取hive不能重写的查询，请求gpt，看能否被重写。
       [] 重写结果是否和其他rewriter重写结果相同
       [] 是否加速
+
+260303:
+changelog:
+跑通了athena
+把vllm看板正式搞成自动展示自动刷新。其中把vllm中带有over time字样的指标的$__interval换成了$__rate_interval。
+整理仓库，把athena, sembench, palimpzest都放在一起（src/external）。仓库统一使用相对导入。
