@@ -1554,3 +1554,8 @@ changelog:
 跑通了athena
 把vllm看板正式搞成自动展示自动刷新。其中把vllm中带有over time字样的指标的$__interval换成了$__rate_interval。
 整理仓库，把athena, sembench, palimpzest都放在一起（src/external）。仓库统一使用相对导入。
+
+260311:
+法语把状语都整理完了。本周剩余规划：
+开始背诵
+翻译素材
