@@ -1567,3 +1567,7 @@ changelog:
 18-19：调研已有文章。
 20：汇报revision plan。要求做一些基础的调研。
 确定plan。
+
+260320:
+昨天已经核对过了plan。
+今天第一要务是完结project。
