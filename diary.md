@@ -1607,3 +1607,8 @@ yang1997枚举器，gnn有
 260427：
 hybrid workload: 感觉今天可能改不完代码。不过明天一定能改完。
 instance：跑上实验。
+
+260501:
+截至目前小结：
+准备：hybrid workload，跑完第二个，都停止。不再跑yang1997。先测能否走通链路。然后优先跑bigsubs, uniview和celerdata。
+3台并行跑hybrid。1台专门跑rewriter (bigquery, snowflake)。
