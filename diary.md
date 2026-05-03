@@ -1613,3 +1613,7 @@ instance：跑上实验。
 准备：hybrid workload，跑完第二个，都停止。不再跑yang1997。先测能否走通链路。然后优先跑bigsubs, uniview和celerdata。
 3台并行跑hybrid。1台专门跑rewriter (bigquery, snowflake)。
 周末：分析skew结果，跑通cloud，观察hybrid workload速度。
+
+260502:
+关于hybrid workload。再观察一天吧。
+下周一定要把换机器和cloud vendor的实验给做完！
