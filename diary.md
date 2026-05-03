@@ -1621,3 +1621,8 @@ instance：跑上实验。
 260503:
 hybrid workload策略：混合的先跑autoview观察下速度结果。
 文件传输同步到dis5：完成server 3。
+明天规划：
+celerdata 跑完所有推荐
+同步数据
+小机器：16核32GB配置，开始跑stage_summary。要确认下：starrocks, doris能否跑；hive能否重写。
+snowflake: 建库，dis5跑重写结果。依赖项：同步所有数据到di5。
