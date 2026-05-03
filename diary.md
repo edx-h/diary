@@ -1620,3 +1620,4 @@ instance：跑上实验。
 
 260503:
 hybrid workload策略：混合的先跑autoview观察下速度结果。
+文件传输同步到dis5：完成server 3。
