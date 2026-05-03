@@ -1617,3 +1617,6 @@ instance：跑上实验。
 260502:
 关于hybrid workload。再观察一天吧。
 下周一定要把换机器和cloud vendor的实验给做完！
+
+260503:
+hybrid workload策略：混合的先跑autoview观察下速度结果。
