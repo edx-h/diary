@@ -1635,3 +1635,6 @@ snowflake完结
 
 260507:
 今日：终于把snowflake建库导数据搞定了。同时还发现了一个天大的bug，tpcds dsb数据列倒错了。将错就错吧。
+明日：
+snowflake跑数据（original, 直接上table 9那张表的rewrite）
+分析skewed distribution结果。
