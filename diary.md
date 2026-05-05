@@ -1626,3 +1626,9 @@ celerdata 跑完所有推荐
 同步数据
 小机器：16核32GB配置，开始跑stage_summary。要确认下：starrocks, doris能否跑；hive能否重写。
 snowflake: 建库，dis5跑重写结果。依赖项：同步所有数据到di5。
+
+260506:
+总体还算顺利
+明日（7号）日程：
+snowflake完结
+分析skew distribution的结果（无celerdata）
