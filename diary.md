@@ -1638,3 +1638,4 @@ snowflake完结
 明日：
 snowflake跑数据（original, 直接上table 9那张表的rewrite）
 分析skewed distribution结果。
+需要写一个程序，把所有涉及到增补snowflake语法的，sweep一遍，新增snowflake syntax。register workload, candidate enumeration。同时需要增补相应的代码：register, candidate enum, rewriting, rewriting execution。
