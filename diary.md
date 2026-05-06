@@ -1627,15 +1627,21 @@ celerdata 跑完所有推荐
 小机器：16核32GB配置，开始跑stage_summary。要确认下：starrocks, doris能否跑；hive能否重写。
 snowflake: 建库，dis5跑重写结果。依赖项：同步所有数据到di5。
 
-260506:
+260504:
 总体还算顺利
-明日（7号）日程：
+明日（5号）日程：
 snowflake完结
 分析skew distribution的结果（无celerdata）
 
-260507:
+260505:
 今日：终于把snowflake建库导数据搞定了。同时还发现了一个天大的bug，tpcds dsb数据列倒错了。将错就错吧。
 明日：
 snowflake跑数据（original, 直接上table 9那张表的rewrite）
 分析skewed distribution结果。
 需要写一个程序，把所有涉及到增补snowflake语法的，sweep一遍，新增snowflake syntax。register workload, candidate enumeration。同时需要增补相应的代码：register, candidate enum, rewriting, rewriting execution。
+
+260506:
+snowflake：成功批量添加sf_syntax_sql
+stage_summary: 监测stage_summary结果
+skewed distribution: 梳理skewed distribution欠缺的结果以及得到最终版本的结果。--这是跑celerdata的前置条件
+small machine: 等待scale bigsubs跑完
