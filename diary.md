@@ -1652,3 +1652,4 @@ small machine: 全面触发后面的实验
 skewed distribution: 整理分析结果
 snowflake: 触发实验。
 stage_summary: 继续检测实验进度。
+celerdata: 也要继续触发实验。
