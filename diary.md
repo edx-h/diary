@@ -1641,7 +1641,14 @@ snowflake跑数据（original, 直接上table 9那张表的rewrite）
 需要写一个程序，把所有涉及到增补snowflake语法的，sweep一遍，新增snowflake syntax。register workload, candidate enumeration。同时需要增补相应的代码：register, candidate enum, rewriting, rewriting execution。
 
 260506:
-snowflake：成功批量添加sf_syntax_sql
-stage_summary: 监测stage_summary结果
+snowflake：成功批量添加sf_syntax_sql。
+stage_summary: 监测stage_summary结果。
 skewed distribution: 梳理skewed distribution欠缺的结果以及得到最终版本的结果。--这是跑celerdata的前置条件
-small machine: 等待scale bigsubs跑完
+   结论：实验没有问题。都已经跑全了。有意义的结论也发现了一些。
+small machine: 等待scale bigsubs跑完。
+
+260507：
+small machine: 全面触发后面的实验
+skewed distribution: 整理分析结果
+snowflake: 触发实验。
+stage_summary: 继续检测实验进度。
