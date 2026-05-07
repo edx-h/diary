@@ -1657,3 +1657,5 @@ celerdata: 也要继续触发实验。
 260507：
 确认snowflake不支持带join mv的创建（已经经过多方验证过了）
 bigquery 支持 mv join的创建，但是没有explain语句。之后看形势动态跟踪bigquery。
+内部话术：
+不用yang 1997的原因是他生成的view实在是太少了，基本上只相当于bigsubs的1/5。
