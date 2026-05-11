@@ -1673,5 +1673,5 @@ small scale准备数据完毕。明日起正式开始大规模跑训练和重写
 260511:
 终于launch好了bigquery，能确认确实有重写的情况了。
 bigquery：预计今天能跑完rewriting。
-small: 完全跑完recommendation
+small: 完全跑完recommendation。都已经开始跑hive的rewriting了。
 hybrid: 1在训练，24在推荐。
