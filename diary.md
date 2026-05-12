@@ -1679,4 +1679,4 @@ hybrid: 1在训练，24在推荐。
 260512:
 small: hive, starrocks, doris 1024都跑完了。
 hybrid: 跑rewriting。
-bigquery: 今天跑完table 9的了，等之后开会讨论一下结果。如果没有问题的话就不用再跑其他实验了。
+bigquery: 今天跑完table 9的了，等之后开会讨论一下结果。如果没有问题的话就不用再跑其他实验了。结论：celerdata的还没有跑完。得修改一下bigquery 创建mv的方法。
