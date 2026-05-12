@@ -1675,3 +1675,8 @@ small scale准备数据完毕。明日起正式开始大规模跑训练和重写
 bigquery：预计今天能跑完rewriting。
 small: 完全跑完recommendation。都已经开始跑hive的rewriting了。
 hybrid: 1在训练，24在推荐。
+
+260512:
+small: hive, starrocks, doris 1024都跑完了。
+hybrid: 跑rewriting。
+bigquery: 今天跑完table 9的了，等之后开会讨论一下结果。如果没有问题的话就不用再跑其他实验了。
