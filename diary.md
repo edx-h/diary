@@ -1687,3 +1687,4 @@ hybrid hive rewrite全都已经跑完了。剩下starrocks, doris的rewrite。
 small: rewriting hive, starrocks, doris全都跑完了。先跑pg rewriting execution，比较慢。估计这样的话能在周末前跑完。
 bigquery还在正在跑，因为途中改了一些bug。不过预计现在没问题了。
 别忘了还得跑small的redshift原始、hybrid的original star, doris, redshift
+跑redshift的前提是重新同步一遍数据！
