@@ -1688,3 +1688,10 @@ small: rewriting hive, starrocks, doris全都跑完了。先跑pg rewriting exec
 bigquery还在正在跑，因为途中改了一些bug。不过预计现在没问题了。
 别忘了还得跑small的redshift原始、hybrid的original star, doris, redshift
 跑redshift的前提是重新同步一遍数据！
+
+260514:
+bq的rewriting已经全部跑完了。bq的rewrite效果非常差。接下来要launch execution 和 evaluation
+small: 正在dis5上跑redshift的original
+small 远程机器：跑3引擎的rewriting execution和evaluation
+hybrid远程机器：跑3引擎的rewriting execution和evaluation
+hybrid: hive, star, doris的rewriting全部跑完了。现在需要在dis上跑redshift的rewrite。
