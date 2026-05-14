@@ -1692,6 +1692,6 @@ bigquery还在正在跑，因为途中改了一些bug。不过预计现在没问
 260514:
 bq的rewriting已经全部跑完了。bq的rewrite效果非常差。接下来要launch execution 和 evaluation
 small: 正在dis5上跑redshift的original
-small 远程机器：跑3引擎的rewriting execution和evaluation
-hybrid远程机器：跑3引擎的rewriting execution和evaluation
+small 远程机器：跑3引擎的rewriting execution和evaluation。starrocks和doris
+hybrid远程机器：跑3引擎的rewriting execution和evaluation。所有引擎
 hybrid: hive, star, doris的rewriting全部跑完了。现在需要在dis上跑redshift的rewrite。
