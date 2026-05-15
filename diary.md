@@ -1695,3 +1695,11 @@ small: 正在dis5上跑redshift的original
 small 远程机器：跑3引擎的rewriting execution和evaluation。starrocks和doris
 hybrid远程机器：跑3引擎的rewriting execution和evaluation。所有引擎
 hybrid: hive, star, doris的rewriting全部跑完了。现在需要在dis上跑redshift的rewrite。
+
+260515:
+bq: rewriting结果整理完毕
+hybrid, small都整理出了部分结果。
+实验：
+redshift：正在跑small的rewriting execution。
+small小机器：
+hybrid机器：
