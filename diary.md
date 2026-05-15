@@ -1703,3 +1703,4 @@ hybrid, small都整理出了部分结果。
 redshift：正在跑small的rewriting execution。
 small小机器：
 hybrid机器：应该是正在跑starrocks rewriting exection的结果。
+我认为hybrid workload这一块没有必要再去跑redshift了。
