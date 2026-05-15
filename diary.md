@@ -1702,4 +1702,4 @@ hybrid, small都整理出了部分结果。
 实验：
 redshift：正在跑small的rewriting execution。
 small小机器：
-hybrid机器：正在跑。
+hybrid机器：应该是正在跑starrocks rewriting exection的结果。
