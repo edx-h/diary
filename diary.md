@@ -1709,3 +1709,4 @@ small应该是starrocks和doris的rewriting_execution都跑完了。
 260516:
 昨天初步同步了结果，算是有底了。
 今天开始系统性整理结果。
+本日基本明确了hybrid workload的主要结论：虽说bigsubs枚举器有细微差别，但是基本上是由于两个workload共享的相同的mv的加速波动和独有的mv相互抵消的结果。也就是说高出来的那部分根本没有办法解释。而uniview枚举器的结果确实是实打实的结果。所以建议只分析uniview的结果就好。
