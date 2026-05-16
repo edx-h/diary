@@ -1705,3 +1705,7 @@ small小机器：
 hybrid机器：应该是正在跑starrocks rewriting exection的结果。
 我认为hybrid workload这一块没有必要再去跑redshift了。
 small应该是starrocks和doris的rewriting_execution都跑完了。
+
+260516:
+昨天初步同步了结果，算是有底了。
+今天开始系统性整理结果。
