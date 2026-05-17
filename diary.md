@@ -1713,3 +1713,4 @@ small应该是starrocks和doris的rewriting_execution都跑完了。
 
 260517:
 发现了惊天大bug：hybrid workload实验组，没有特意排除掉从test workload里面枚举的view。补救措施：重新刷了一遍数据，从information collection开始重新跑数据。估计明天能把所有结果都搞出来。
+今天也开始重新跑了bigquery的所有数据。是一个转折点。
