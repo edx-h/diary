@@ -1714,3 +1714,6 @@ small应该是starrocks和doris的rewriting_execution都跑完了。
 260517:
 发现了惊天大bug：hybrid workload实验组，没有特意排除掉从test workload里面枚举的view。补救措施：重新刷了一遍数据，从information collection开始重新跑数据。估计明天能把所有结果都搞出来。
 今天也开始重新跑了bigquery的所有数据。是一个转折点。
+
+250518：
+排查bq的结果：实例大小会影响重写情况，但是是否mp，是否执行n次再验证plan决不影响最终重写情况。所以最终方案：重新在小实例上跑rewriting和rewriting_execution。
