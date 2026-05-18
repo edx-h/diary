@@ -1717,3 +1717,8 @@ small应该是starrocks和doris的rewriting_execution都跑完了。
 
 250518：
 排查bq的结果：实例大小会影响重写情况，但是是否mp，是否执行n次再验证plan决不影响最终重写情况。所以最终方案：重新在小实例上跑rewriting和rewriting_execution。
+今天：
+总算跑出了正确的hybrid结果
+也基本上算是分析清楚了skewed distribution的问题。
+日程：
+19日，完成上面这两项的所有数据分析。上午一个，下午一个。
