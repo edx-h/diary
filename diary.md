@@ -1722,3 +1722,6 @@ small应该是starrocks和doris的rewriting_execution都跑完了。
 也基本上算是分析清楚了skewed distribution的问题。
 日程：
 19日，完成上面这两项的所有数据分析。上午一个，下午一个。
+
+260519：
+skewed distribution有重大进展，当然是在gemini的协助下。
