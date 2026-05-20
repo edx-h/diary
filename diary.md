@@ -1727,3 +1727,11 @@ small应该是starrocks和doris的rewriting_execution都跑完了。
 skewed distribution有重大进展，当然是在gemini的协助下。
 hybrid也正式导出了数据。这个分析留给明天。不过应该比skewed轻松。
 预计明天能正式把这两个项目完结。
+
+250520:
+主要是细化了一些事情：
+skewed: 花了大功夫。首先发现了gemini昨天解释的根本不对，然后找gpt和claude做了case分析。最终又抽取了block numbers并且画bar图。
+hybrid: 分析多出的3%个点没法解释。两份mv都没有交集，干脆不如不说。这一部分基本上前面的枚举特征就能解释清楚问题。
+
+250521：
+正式完结skewed和hybrid。就剩下small和bq了。
