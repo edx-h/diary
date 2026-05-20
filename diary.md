@@ -1725,3 +1725,5 @@ small应该是starrocks和doris的rewriting_execution都跑完了。
 
 260519：
 skewed distribution有重大进展，当然是在gemini的协助下。
+hybrid也正式导出了数据。这个分析留给明天。不过应该比skewed轻松。
+预计明天能正式把这两个项目完结。
